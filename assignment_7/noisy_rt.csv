@@ -1,0 +1,1651 @@
+ID,ITEM,CONDITION,SENTENCE,RT,IA
+570260f06ffa49afb7bdc797a92fea1b,2,plausible,The bartender*poured*the customer*a drink.,1547,1
+570260f06ffa49afb7bdc797a92fea1b,2,plausible,The bartender*poured*the customer*a drink.,1076,2
+570260f06ffa49afb7bdc797a92fea1b,2,plausible,The bartender*poured*the customer*a drink.,1463,3
+570260f06ffa49afb7bdc797a92fea1b,2,plausible,The bartender*poured*the customer*a drink.,868,4
+570260f06ffa49afb7bdc797a92fea1b,11,implausible,The grandmother*baked*some cookies*the grandson.,1200,1
+570260f06ffa49afb7bdc797a92fea1b,11,implausible,The grandmother*baked*some cookies*the grandson.,917,2
+570260f06ffa49afb7bdc797a92fea1b,11,implausible,The grandmother*baked*some cookies*the grandson.,906,3
+570260f06ffa49afb7bdc797a92fea1b,11,implausible,The grandmother*baked*some cookies*the grandson.,1176,4
+570260f06ffa49afb7bdc797a92fea1b,19,implausible,The church*built*a shelter*the homeless.,1506,1
+570260f06ffa49afb7bdc797a92fea1b,19,implausible,The church*built*a shelter*the homeless.,1398,2
+570260f06ffa49afb7bdc797a92fea1b,19,implausible,The church*built*a shelter*the homeless.,1127,3
+570260f06ffa49afb7bdc797a92fea1b,3,implausible,The woman*saved*a seat*her husband.,787,1
+570260f06ffa49afb7bdc797a92fea1b,3,implausible,The woman*saved*a seat*her husband.,762,2
+570260f06ffa49afb7bdc797a92fea1b,3,implausible,The woman*saved*a seat*her husband.,778,3
+570260f06ffa49afb7bdc797a92fea1b,17,implausible,The travel agent*reserved*a flight*the businessman.,1331,1
+570260f06ffa49afb7bdc797a92fea1b,17,implausible,The travel agent*reserved*a flight*the businessman.,996,2
+570260f06ffa49afb7bdc797a92fea1b,17,implausible,The travel agent*reserved*a flight*the businessman.,875,3
+570260f06ffa49afb7bdc797a92fea1b,7,implausible,The wife*reserved*a table*her husband.,743,1
+570260f06ffa49afb7bdc797a92fea1b,7,implausible,The wife*reserved*a table*her husband.,723,2
+570260f06ffa49afb7bdc797a92fea1b,7,implausible,The wife*reserved*a table*her husband.,705,3
+570260f06ffa49afb7bdc797a92fea1b,7,implausible,The wife*reserved*a table*her husband.,1506,4
+570260f06ffa49afb7bdc797a92fea1b,9,implausible,The charity*built*a house*the hurricane victim.,1124,1
+570260f06ffa49afb7bdc797a92fea1b,9,implausible,The charity*built*a house*the hurricane victim.,1328,2
+570260f06ffa49afb7bdc797a92fea1b,9,implausible,The charity*built*a house*the hurricane victim.,800,3
+570260f06ffa49afb7bdc797a92fea1b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1057,2
+570260f06ffa49afb7bdc797a92fea1b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,883,3
+570260f06ffa49afb7bdc797a92fea1b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1683,4
+570260f06ffa49afb7bdc797a92fea1b,6,plausible,The secretary*ordered*the boss*some office supplies.,973,1
+570260f06ffa49afb7bdc797a92fea1b,6,plausible,The secretary*ordered*the boss*some office supplies.,799,2
+570260f06ffa49afb7bdc797a92fea1b,6,plausible,The secretary*ordered*the boss*some office supplies.,680,3
+570260f06ffa49afb7bdc797a92fea1b,6,plausible,The secretary*ordered*the boss*some office supplies.,1873,4
+570260f06ffa49afb7bdc797a92fea1b,4,plausible,The grandmother*made*her granddaughter*a quilt.,629,1
+570260f06ffa49afb7bdc797a92fea1b,4,plausible,The grandmother*made*her granddaughter*a quilt.,555,2
+570260f06ffa49afb7bdc797a92fea1b,20,plausible,The babysitter*fixed*the child*some lunch.,988,1
+570260f06ffa49afb7bdc797a92fea1b,20,plausible,The babysitter*fixed*the child*some lunch.,656,2
+570260f06ffa49afb7bdc797a92fea1b,20,plausible,The babysitter*fixed*the child*some lunch.,1060,3
+570260f06ffa49afb7bdc797a92fea1b,20,plausible,The babysitter*fixed*the child*some lunch.,1553,4
+570260f06ffa49afb7bdc797a92fea1b,12,plausible,The nurse*poured*the old man*some water.,868,1
+570260f06ffa49afb7bdc797a92fea1b,12,plausible,The nurse*poured*the old man*some water.,957,2
+570260f06ffa49afb7bdc797a92fea1b,12,plausible,The nurse*poured*the old man*some water.,910,3
+570260f06ffa49afb7bdc797a92fea1b,12,plausible,The nurse*poured*the old man*some water.,711,4
+570260f06ffa49afb7bdc797a92fea1b,1,implausible,The cook*baked*a cake*Lucy.,582,1
+570260f06ffa49afb7bdc797a92fea1b,1,implausible,The cook*baked*a cake*Lucy.,579,2
+570260f06ffa49afb7bdc797a92fea1b,1,implausible,The cook*baked*a cake*Lucy.,745,3
+570260f06ffa49afb7bdc797a92fea1b,8,plausible,The father*bought*his son*a bicycle.,732,1
+570260f06ffa49afb7bdc797a92fea1b,8,plausible,The father*bought*his son*a bicycle.,584,2
+570260f06ffa49afb7bdc797a92fea1b,8,plausible,The father*bought*his son*a bicycle.,590,3
+570260f06ffa49afb7bdc797a92fea1b,8,plausible,The father*bought*his son*a bicycle.,650,4
+570260f06ffa49afb7bdc797a92fea1b,13,implausible,The receptionist*saved*some cake*her co-worker.,852,1
+570260f06ffa49afb7bdc797a92fea1b,13,implausible,The receptionist*saved*some cake*her co-worker.,617,2
+570260f06ffa49afb7bdc797a92fea1b,13,implausible,The receptionist*saved*some cake*her co-worker.,1103,3
+570260f06ffa49afb7bdc797a92fea1b,16,plausible,The man*ordered*his girlfriend*some champagne.,640,1
+570260f06ffa49afb7bdc797a92fea1b,16,plausible,The man*ordered*his girlfriend*some champagne.,674,2
+570260f06ffa49afb7bdc797a92fea1b,16,plausible,The man*ordered*his girlfriend*some champagne.,1190,3
+570260f06ffa49afb7bdc797a92fea1b,16,plausible,The man*ordered*his girlfriend*some champagne.,857,4
+570260f06ffa49afb7bdc797a92fea1b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,700,1
+570260f06ffa49afb7bdc797a92fea1b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,738,2
+570260f06ffa49afb7bdc797a92fea1b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1645,4
+570260f06ffa49afb7bdc797a92fea1b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1102,1
+570260f06ffa49afb7bdc797a92fea1b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1765,2
+570260f06ffa49afb7bdc797a92fea1b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1392,4
+570260f06ffa49afb7bdc797a92fea1b,10,plausible,The waitress*fixed*the customer*a sandwich.,811,1
+570260f06ffa49afb7bdc797a92fea1b,10,plausible,The waitress*fixed*the customer*a sandwich.,671,2
+570260f06ffa49afb7bdc797a92fea1b,10,plausible,The waitress*fixed*the customer*a sandwich.,966,3
+570260f06ffa49afb7bdc797a92fea1b,14,plausible,The seamstress*made*her client*a dress.,989,2
+570260f06ffa49afb7bdc797a92fea1b,14,plausible,The seamstress*made*her client*a dress.,994,3
+570260f06ffa49afb7bdc797a92fea1b,14,plausible,The seamstress*made*her client*a dress.,824,4
+567e07672879e9cece03bcf4f470767f,16,implausible,The man*ordered*some champagne*his girlfriend.,632,1
+567e07672879e9cece03bcf4f470767f,16,implausible,The man*ordered*some champagne*his girlfriend.,648,2
+567e07672879e9cece03bcf4f470767f,16,implausible,The man*ordered*some champagne*his girlfriend.,1324,3
+567e07672879e9cece03bcf4f470767f,14,implausible,The seamstress*made*a dress*her client.,1142,1
+567e07672879e9cece03bcf4f470767f,14,implausible,The seamstress*made*a dress*her client.,514,2
+567e07672879e9cece03bcf4f470767f,14,implausible,The seamstress*made*a dress*her client.,400,3
+567e07672879e9cece03bcf4f470767f,19,plausible,The church*built*the homeless*a shelter.,420,1
+567e07672879e9cece03bcf4f470767f,19,plausible,The church*built*the homeless*a shelter.,586,2
+567e07672879e9cece03bcf4f470767f,19,plausible,The church*built*the homeless*a shelter.,772,3
+567e07672879e9cece03bcf4f470767f,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1110,1
+567e07672879e9cece03bcf4f470767f,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,803,2
+567e07672879e9cece03bcf4f470767f,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,505,3
+567e07672879e9cece03bcf4f470767f,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1221,4
+567e07672879e9cece03bcf4f470767f,4,implausible,The grandmother*made*a quilt*her granddaughter.,523,2
+567e07672879e9cece03bcf4f470767f,4,implausible,The grandmother*made*a quilt*her granddaughter.,765,3
+567e07672879e9cece03bcf4f470767f,4,implausible,The grandmother*made*a quilt*her granddaughter.,1125,4
+567e07672879e9cece03bcf4f470767f,13,plausible,The receptionist*saved*her co-worker*some cake.,470,2
+567e07672879e9cece03bcf4f470767f,13,plausible,The receptionist*saved*her co-worker*some cake.,838,3
+567e07672879e9cece03bcf4f470767f,10,implausible,The waitress*fixed*a sandwich*the customer.,159,1
+567e07672879e9cece03bcf4f470767f,10,implausible,The waitress*fixed*a sandwich*the customer.,970,2
+567e07672879e9cece03bcf4f470767f,10,implausible,The waitress*fixed*a sandwich*the customer.,586,3
+567e07672879e9cece03bcf4f470767f,11,plausible,The grandmother*baked*the grandson*some cookies.,693,1
+567e07672879e9cece03bcf4f470767f,11,plausible,The grandmother*baked*the grandson*some cookies.,385,2
+567e07672879e9cece03bcf4f470767f,11,plausible,The grandmother*baked*the grandson*some cookies.,812,3
+567e07672879e9cece03bcf4f470767f,11,plausible,The grandmother*baked*the grandson*some cookies.,1249,4
+567e07672879e9cece03bcf4f470767f,8,implausible,The father*bought*a bicycle*his son.,533,1
+567e07672879e9cece03bcf4f470767f,8,implausible,The father*bought*a bicycle*his son.,458,2
+567e07672879e9cece03bcf4f470767f,8,implausible,The father*bought*a bicycle*his son.,601,3
+567e07672879e9cece03bcf4f470767f,17,plausible,The travel agent*reserved*the businessman*a flight.,1499,1
+567e07672879e9cece03bcf4f470767f,17,plausible,The travel agent*reserved*the businessman*a flight.,551,2
+567e07672879e9cece03bcf4f470767f,17,plausible,The travel agent*reserved*the businessman*a flight.,727,3
+567e07672879e9cece03bcf4f470767f,9,plausible,The charity*built*the hurricane victim*a house.,562,1
+567e07672879e9cece03bcf4f470767f,9,plausible,The charity*built*the hurricane victim*a house.,569,2
+567e07672879e9cece03bcf4f470767f,9,plausible,The charity*built*the hurricane victim*a house.,1611,3
+567e07672879e9cece03bcf4f470767f,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,900,1
+567e07672879e9cece03bcf4f470767f,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1583,2
+567e07672879e9cece03bcf4f470767f,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1489,3
+567e07672879e9cece03bcf4f470767f,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1323,4
+567e07672879e9cece03bcf4f470767f,12,implausible,The nurse*poured*some water*the old man.,915,1
+567e07672879e9cece03bcf4f470767f,12,implausible,The nurse*poured*some water*the old man.,689,2
+567e07672879e9cece03bcf4f470767f,12,implausible,The nurse*poured*some water*the old man.,941,3
+567e07672879e9cece03bcf4f470767f,3,plausible,The woman*saved*her husband*a seat.,455,1
+567e07672879e9cece03bcf4f470767f,3,plausible,The woman*saved*her husband*a seat.,542,2
+567e07672879e9cece03bcf4f470767f,3,plausible,The woman*saved*her husband*a seat.,882,3
+567e07672879e9cece03bcf4f470767f,3,plausible,The woman*saved*her husband*a seat.,847,4
+567e07672879e9cece03bcf4f470767f,5,plausible,The apprentice*fetched*the carpenter*a hammer.,883,1
+567e07672879e9cece03bcf4f470767f,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1081,2
+567e07672879e9cece03bcf4f470767f,5,plausible,The apprentice*fetched*the carpenter*a hammer.,741,3
+567e07672879e9cece03bcf4f470767f,1,plausible,The cook*baked*Lucy*a cake.,1406,1
+567e07672879e9cece03bcf4f470767f,1,plausible,The cook*baked*Lucy*a cake.,637,2
+567e07672879e9cece03bcf4f470767f,1,plausible,The cook*baked*Lucy*a cake.,1205,3
+567e07672879e9cece03bcf4f470767f,1,plausible,The cook*baked*Lucy*a cake.,1601,4
+567e07672879e9cece03bcf4f470767f,2,implausible,The bartender*poured*a drink*the customer.,735,1
+567e07672879e9cece03bcf4f470767f,2,implausible,The bartender*poured*a drink*the customer.,675,2
+567e07672879e9cece03bcf4f470767f,2,implausible,The bartender*poured*a drink*the customer.,725,3
+567e07672879e9cece03bcf4f470767f,20,implausible,The babysitter*fixed*some lunch*the child.,963,1
+567e07672879e9cece03bcf4f470767f,20,implausible,The babysitter*fixed*some lunch*the child.,1074,3
+567e07672879e9cece03bcf4f470767f,20,implausible,The babysitter*fixed*some lunch*the child.,1887,4
+567e07672879e9cece03bcf4f470767f,7,plausible,The wife*reserved*her husband*a table.,959,1
+567e07672879e9cece03bcf4f470767f,7,plausible,The wife*reserved*her husband*a table.,669,2
+567e07672879e9cece03bcf4f470767f,7,plausible,The wife*reserved*her husband*a table.,774,3
+567e07672879e9cece03bcf4f470767f,6,implausible,The secretary*ordered*some office supplies*the boss.,668,1
+567e07672879e9cece03bcf4f470767f,6,implausible,The secretary*ordered*some office supplies*the boss.,534,2
+567e07672879e9cece03bcf4f470767f,6,implausible,The secretary*ordered*some office supplies*the boss.,975,4
+0800373747ab78796173416d3a5ac8e8,1,implausible,The cook*baked*a cake*Lucy.,1420,1
+0800373747ab78796173416d3a5ac8e8,1,implausible,The cook*baked*a cake*Lucy.,819,2
+0800373747ab78796173416d3a5ac8e8,1,implausible,The cook*baked*a cake*Lucy.,681,3
+0800373747ab78796173416d3a5ac8e8,1,implausible,The cook*baked*a cake*Lucy.,1068,4
+0800373747ab78796173416d3a5ac8e8,10,plausible,The waitress*fixed*the customer*a sandwich.,948,1
+0800373747ab78796173416d3a5ac8e8,10,plausible,The waitress*fixed*the customer*a sandwich.,399,2
+0800373747ab78796173416d3a5ac8e8,10,plausible,The waitress*fixed*the customer*a sandwich.,545,3
+0800373747ab78796173416d3a5ac8e8,10,plausible,The waitress*fixed*the customer*a sandwich.,1221,4
+0800373747ab78796173416d3a5ac8e8,2,plausible,The bartender*poured*the customer*a drink.,539,1
+0800373747ab78796173416d3a5ac8e8,2,plausible,The bartender*poured*the customer*a drink.,493,2
+0800373747ab78796173416d3a5ac8e8,2,plausible,The bartender*poured*the customer*a drink.,459,3
+0800373747ab78796173416d3a5ac8e8,2,plausible,The bartender*poured*the customer*a drink.,793,4
+0800373747ab78796173416d3a5ac8e8,9,implausible,The charity*built*a house*the hurricane victim.,499,1
+0800373747ab78796173416d3a5ac8e8,9,implausible,The charity*built*a house*the hurricane victim.,415,2
+0800373747ab78796173416d3a5ac8e8,9,implausible,The charity*built*a house*the hurricane victim.,489,3
+0800373747ab78796173416d3a5ac8e8,9,implausible,The charity*built*a house*the hurricane victim.,977,4
+0800373747ab78796173416d3a5ac8e8,16,plausible,The man*ordered*his girlfriend*some champagne.,473,1
+0800373747ab78796173416d3a5ac8e8,16,plausible,The man*ordered*his girlfriend*some champagne.,530,2
+0800373747ab78796173416d3a5ac8e8,16,plausible,The man*ordered*his girlfriend*some champagne.,658,3
+0800373747ab78796173416d3a5ac8e8,4,plausible,The grandmother*made*her granddaughter*a quilt.,488,1
+0800373747ab78796173416d3a5ac8e8,4,plausible,The grandmother*made*her granddaughter*a quilt.,419,2
+0800373747ab78796173416d3a5ac8e8,4,plausible,The grandmother*made*her granddaughter*a quilt.,478,3
+0800373747ab78796173416d3a5ac8e8,5,implausible,The apprentice*fetched*a hammer*the carpenter.,389,1
+0800373747ab78796173416d3a5ac8e8,5,implausible,The apprentice*fetched*a hammer*the carpenter.,513,2
+0800373747ab78796173416d3a5ac8e8,5,implausible,The apprentice*fetched*a hammer*the carpenter.,655,3
+0800373747ab78796173416d3a5ac8e8,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1129,4
+0800373747ab78796173416d3a5ac8e8,13,implausible,The receptionist*saved*some cake*her co-worker.,594,1
+0800373747ab78796173416d3a5ac8e8,13,implausible,The receptionist*saved*some cake*her co-worker.,428,2
+0800373747ab78796173416d3a5ac8e8,13,implausible,The receptionist*saved*some cake*her co-worker.,435,3
+0800373747ab78796173416d3a5ac8e8,13,implausible,The receptionist*saved*some cake*her co-worker.,932,4
+0800373747ab78796173416d3a5ac8e8,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,642,1
+0800373747ab78796173416d3a5ac8e8,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,489,2
+0800373747ab78796173416d3a5ac8e8,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,449,3
+0800373747ab78796173416d3a5ac8e8,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1651,4
+0800373747ab78796173416d3a5ac8e8,3,implausible,The woman*saved*a seat*her husband.,295,1
+0800373747ab78796173416d3a5ac8e8,3,implausible,The woman*saved*a seat*her husband.,718,2
+0800373747ab78796173416d3a5ac8e8,3,implausible,The woman*saved*a seat*her husband.,438,3
+0800373747ab78796173416d3a5ac8e8,3,implausible,The woman*saved*a seat*her husband.,494,4
+0800373747ab78796173416d3a5ac8e8,19,implausible,The church*built*a shelter*the homeless.,495,1
+0800373747ab78796173416d3a5ac8e8,19,implausible,The church*built*a shelter*the homeless.,611,2
+0800373747ab78796173416d3a5ac8e8,19,implausible,The church*built*a shelter*the homeless.,431,3
+0800373747ab78796173416d3a5ac8e8,19,implausible,The church*built*a shelter*the homeless.,652,4
+0800373747ab78796173416d3a5ac8e8,7,implausible,The wife*reserved*a table*her husband.,360,1
+0800373747ab78796173416d3a5ac8e8,7,implausible,The wife*reserved*a table*her husband.,568,2
+0800373747ab78796173416d3a5ac8e8,7,implausible,The wife*reserved*a table*her husband.,618,3
+0800373747ab78796173416d3a5ac8e8,7,implausible,The wife*reserved*a table*her husband.,669,4
+0800373747ab78796173416d3a5ac8e8,14,plausible,The seamstress*made*her client*a dress.,559,1
+0800373747ab78796173416d3a5ac8e8,14,plausible,The seamstress*made*her client*a dress.,649,2
+0800373747ab78796173416d3a5ac8e8,14,plausible,The seamstress*made*her client*a dress.,593,3
+0800373747ab78796173416d3a5ac8e8,14,plausible,The seamstress*made*her client*a dress.,615,4
+0800373747ab78796173416d3a5ac8e8,12,plausible,The nurse*poured*the old man*some water.,564,1
+0800373747ab78796173416d3a5ac8e8,12,plausible,The nurse*poured*the old man*some water.,534,2
+0800373747ab78796173416d3a5ac8e8,12,plausible,The nurse*poured*the old man*some water.,464,3
+0800373747ab78796173416d3a5ac8e8,12,plausible,The nurse*poured*the old man*some water.,618,4
+0800373747ab78796173416d3a5ac8e8,6,plausible,The secretary*ordered*the boss*some office supplies.,458,1
+0800373747ab78796173416d3a5ac8e8,6,plausible,The secretary*ordered*the boss*some office supplies.,430,2
+0800373747ab78796173416d3a5ac8e8,6,plausible,The secretary*ordered*the boss*some office supplies.,462,3
+0800373747ab78796173416d3a5ac8e8,6,plausible,The secretary*ordered*the boss*some office supplies.,713,4
+0800373747ab78796173416d3a5ac8e8,20,plausible,The babysitter*fixed*the child*some lunch.,1475,1
+0800373747ab78796173416d3a5ac8e8,20,plausible,The babysitter*fixed*the child*some lunch.,454,2
+0800373747ab78796173416d3a5ac8e8,20,plausible,The babysitter*fixed*the child*some lunch.,384,3
+0800373747ab78796173416d3a5ac8e8,20,plausible,The babysitter*fixed*the child*some lunch.,610,4
+0800373747ab78796173416d3a5ac8e8,11,implausible,The grandmother*baked*some cookies*the grandson.,529,1
+0800373747ab78796173416d3a5ac8e8,11,implausible,The grandmother*baked*some cookies*the grandson.,768,2
+0800373747ab78796173416d3a5ac8e8,11,implausible,The grandmother*baked*some cookies*the grandson.,1151,3
+0800373747ab78796173416d3a5ac8e8,11,implausible,The grandmother*baked*some cookies*the grandson.,758,4
+0800373747ab78796173416d3a5ac8e8,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,577,1
+0800373747ab78796173416d3a5ac8e8,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,719,2
+0800373747ab78796173416d3a5ac8e8,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,548,3
+0800373747ab78796173416d3a5ac8e8,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1028,4
+0800373747ab78796173416d3a5ac8e8,8,plausible,The father*bought*his son*a bicycle.,489,1
+0800373747ab78796173416d3a5ac8e8,8,plausible,The father*bought*his son*a bicycle.,424,2
+0800373747ab78796173416d3a5ac8e8,8,plausible,The father*bought*his son*a bicycle.,525,3
+0800373747ab78796173416d3a5ac8e8,8,plausible,The father*bought*his son*a bicycle.,464,4
+0800373747ab78796173416d3a5ac8e8,17,implausible,The travel agent*reserved*a flight*the businessman.,290,1
+0800373747ab78796173416d3a5ac8e8,17,implausible,The travel agent*reserved*a flight*the businessman.,593,2
+0800373747ab78796173416d3a5ac8e8,17,implausible,The travel agent*reserved*a flight*the businessman.,468,3
+0800373747ab78796173416d3a5ac8e8,17,implausible,The travel agent*reserved*a flight*the businessman.,464,4
+67e7eb1d68a820475498cd50710902d2,4,plausible,The grandmother*made*her granddaughter*a quilt.,936,1
+67e7eb1d68a820475498cd50710902d2,4,plausible,The grandmother*made*her granddaughter*a quilt.,935,2
+67e7eb1d68a820475498cd50710902d2,4,plausible,The grandmother*made*her granddaughter*a quilt.,1321,3
+67e7eb1d68a820475498cd50710902d2,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1420,1
+67e7eb1d68a820475498cd50710902d2,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1240,2
+67e7eb1d68a820475498cd50710902d2,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1221,3
+67e7eb1d68a820475498cd50710902d2,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1733,4
+67e7eb1d68a820475498cd50710902d2,9,implausible,The charity*built*a house*the hurricane victim.,1450,1
+67e7eb1d68a820475498cd50710902d2,9,implausible,The charity*built*a house*the hurricane victim.,875,2
+67e7eb1d68a820475498cd50710902d2,9,implausible,The charity*built*a house*the hurricane victim.,830,3
+67e7eb1d68a820475498cd50710902d2,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1562,3
+67e7eb1d68a820475498cd50710902d2,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1647,4
+67e7eb1d68a820475498cd50710902d2,20,plausible,The babysitter*fixed*the child*some lunch.,820,2
+67e7eb1d68a820475498cd50710902d2,20,plausible,The babysitter*fixed*the child*some lunch.,836,3
+67e7eb1d68a820475498cd50710902d2,20,plausible,The babysitter*fixed*the child*some lunch.,1421,4
+67e7eb1d68a820475498cd50710902d2,10,plausible,The waitress*fixed*the customer*a sandwich.,1842,1
+67e7eb1d68a820475498cd50710902d2,10,plausible,The waitress*fixed*the customer*a sandwich.,921,2
+67e7eb1d68a820475498cd50710902d2,10,plausible,The waitress*fixed*the customer*a sandwich.,1358,3
+67e7eb1d68a820475498cd50710902d2,1,implausible,The cook*baked*a cake*Lucy.,902,1
+67e7eb1d68a820475498cd50710902d2,1,implausible,The cook*baked*a cake*Lucy.,850,2
+67e7eb1d68a820475498cd50710902d2,1,implausible,The cook*baked*a cake*Lucy.,870,3
+67e7eb1d68a820475498cd50710902d2,1,implausible,The cook*baked*a cake*Lucy.,1985,4
+67e7eb1d68a820475498cd50710902d2,14,plausible,The seamstress*made*her client*a dress.,1868,1
+67e7eb1d68a820475498cd50710902d2,14,plausible,The seamstress*made*her client*a dress.,865,2
+67e7eb1d68a820475498cd50710902d2,14,plausible,The seamstress*made*her client*a dress.,746,3
+67e7eb1d68a820475498cd50710902d2,14,plausible,The seamstress*made*her client*a dress.,881,4
+67e7eb1d68a820475498cd50710902d2,8,plausible,The father*bought*his son*a bicycle.,1418,1
+67e7eb1d68a820475498cd50710902d2,8,plausible,The father*bought*his son*a bicycle.,741,2
+67e7eb1d68a820475498cd50710902d2,8,plausible,The father*bought*his son*a bicycle.,766,3
+67e7eb1d68a820475498cd50710902d2,8,plausible,The father*bought*his son*a bicycle.,954,4
+67e7eb1d68a820475498cd50710902d2,7,implausible,The wife*reserved*a table*her husband.,805,1
+67e7eb1d68a820475498cd50710902d2,7,implausible,The wife*reserved*a table*her husband.,1376,2
+67e7eb1d68a820475498cd50710902d2,7,implausible,The wife*reserved*a table*her husband.,1081,3
+67e7eb1d68a820475498cd50710902d2,7,implausible,The wife*reserved*a table*her husband.,1258,4
+67e7eb1d68a820475498cd50710902d2,13,implausible,The receptionist*saved*some cake*her co-worker.,1825,1
+67e7eb1d68a820475498cd50710902d2,13,implausible,The receptionist*saved*some cake*her co-worker.,1365,2
+67e7eb1d68a820475498cd50710902d2,13,implausible,The receptionist*saved*some cake*her co-worker.,1273,3
+67e7eb1d68a820475498cd50710902d2,13,implausible,The receptionist*saved*some cake*her co-worker.,1067,4
+67e7eb1d68a820475498cd50710902d2,3,implausible,The woman*saved*a seat*her husband.,1162,1
+67e7eb1d68a820475498cd50710902d2,3,implausible,The woman*saved*a seat*her husband.,1145,2
+67e7eb1d68a820475498cd50710902d2,3,implausible,The woman*saved*a seat*her husband.,1117,3
+67e7eb1d68a820475498cd50710902d2,3,implausible,The woman*saved*a seat*her husband.,1173,4
+67e7eb1d68a820475498cd50710902d2,6,plausible,The secretary*ordered*the boss*some office supplies.,1557,1
+67e7eb1d68a820475498cd50710902d2,6,plausible,The secretary*ordered*the boss*some office supplies.,1037,2
+67e7eb1d68a820475498cd50710902d2,6,plausible,The secretary*ordered*the boss*some office supplies.,827,3
+67e7eb1d68a820475498cd50710902d2,11,implausible,The grandmother*baked*some cookies*the grandson.,1235,1
+67e7eb1d68a820475498cd50710902d2,11,implausible,The grandmother*baked*some cookies*the grandson.,885,2
+67e7eb1d68a820475498cd50710902d2,11,implausible,The grandmother*baked*some cookies*the grandson.,1051,3
+67e7eb1d68a820475498cd50710902d2,16,plausible,The man*ordered*his girlfriend*some champagne.,1124,1
+67e7eb1d68a820475498cd50710902d2,16,plausible,The man*ordered*his girlfriend*some champagne.,996,2
+67e7eb1d68a820475498cd50710902d2,16,plausible,The man*ordered*his girlfriend*some champagne.,1006,3
+67e7eb1d68a820475498cd50710902d2,16,plausible,The man*ordered*his girlfriend*some champagne.,1803,4
+67e7eb1d68a820475498cd50710902d2,17,implausible,The travel agent*reserved*a flight*the businessman.,1128,2
+67e7eb1d68a820475498cd50710902d2,17,implausible,The travel agent*reserved*a flight*the businessman.,852,3
+67e7eb1d68a820475498cd50710902d2,17,implausible,The travel agent*reserved*a flight*the businessman.,1439,4
+67e7eb1d68a820475498cd50710902d2,2,plausible,The bartender*poured*the customer*a drink.,1154,1
+67e7eb1d68a820475498cd50710902d2,2,plausible,The bartender*poured*the customer*a drink.,1321,2
+67e7eb1d68a820475498cd50710902d2,2,plausible,The bartender*poured*the customer*a drink.,1120,3
+67e7eb1d68a820475498cd50710902d2,12,plausible,The nurse*poured*the old man*some water.,1352,1
+67e7eb1d68a820475498cd50710902d2,12,plausible,The nurse*poured*the old man*some water.,1022,2
+67e7eb1d68a820475498cd50710902d2,12,plausible,The nurse*poured*the old man*some water.,1339,3
+67e7eb1d68a820475498cd50710902d2,19,implausible,The church*built*a shelter*the homeless.,1328,1
+67e7eb1d68a820475498cd50710902d2,19,implausible,The church*built*a shelter*the homeless.,1003,2
+67e7eb1d68a820475498cd50710902d2,19,implausible,The church*built*a shelter*the homeless.,946,3
+67e7eb1d68a820475498cd50710902d2,19,implausible,The church*built*a shelter*the homeless.,786,4
+67e7eb1d68a820475498cd50710902d2,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1622,1
+67e7eb1d68a820475498cd50710902d2,5,implausible,The apprentice*fetched*a hammer*the carpenter.,956,2
+67e7eb1d68a820475498cd50710902d2,5,implausible,The apprentice*fetched*a hammer*the carpenter.,835,3
+67e7eb1d68a820475498cd50710902d2,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1115,4
+f056225247041558665fe7aa578a40b0,3,implausible,The woman*saved*a seat*her husband.,635,1
+f056225247041558665fe7aa578a40b0,3,implausible,The woman*saved*a seat*her husband.,575,2
+f056225247041558665fe7aa578a40b0,3,implausible,The woman*saved*a seat*her husband.,410,3
+f056225247041558665fe7aa578a40b0,3,implausible,The woman*saved*a seat*her husband.,946,4
+f056225247041558665fe7aa578a40b0,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1203,1
+f056225247041558665fe7aa578a40b0,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,924,2
+f056225247041558665fe7aa578a40b0,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,768,3
+f056225247041558665fe7aa578a40b0,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1300,4
+f056225247041558665fe7aa578a40b0,16,plausible,The man*ordered*his girlfriend*some champagne.,506,1
+f056225247041558665fe7aa578a40b0,16,plausible,The man*ordered*his girlfriend*some champagne.,602,2
+f056225247041558665fe7aa578a40b0,16,plausible,The man*ordered*his girlfriend*some champagne.,644,3
+f056225247041558665fe7aa578a40b0,16,plausible,The man*ordered*his girlfriend*some champagne.,576,4
+f056225247041558665fe7aa578a40b0,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,543,1
+f056225247041558665fe7aa578a40b0,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,580,2
+f056225247041558665fe7aa578a40b0,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,455,3
+f056225247041558665fe7aa578a40b0,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,735,4
+f056225247041558665fe7aa578a40b0,11,implausible,The grandmother*baked*some cookies*the grandson.,448,1
+f056225247041558665fe7aa578a40b0,11,implausible,The grandmother*baked*some cookies*the grandson.,461,2
+f056225247041558665fe7aa578a40b0,11,implausible,The grandmother*baked*some cookies*the grandson.,581,3
+f056225247041558665fe7aa578a40b0,11,implausible,The grandmother*baked*some cookies*the grandson.,683,4
+f056225247041558665fe7aa578a40b0,1,implausible,The cook*baked*a cake*Lucy.,426,1
+f056225247041558665fe7aa578a40b0,1,implausible,The cook*baked*a cake*Lucy.,309,2
+f056225247041558665fe7aa578a40b0,1,implausible,The cook*baked*a cake*Lucy.,365,3
+f056225247041558665fe7aa578a40b0,1,implausible,The cook*baked*a cake*Lucy.,506,4
+f056225247041558665fe7aa578a40b0,20,plausible,The babysitter*fixed*the child*some lunch.,420,1
+f056225247041558665fe7aa578a40b0,20,plausible,The babysitter*fixed*the child*some lunch.,499,2
+f056225247041558665fe7aa578a40b0,20,plausible,The babysitter*fixed*the child*some lunch.,447,3
+f056225247041558665fe7aa578a40b0,20,plausible,The babysitter*fixed*the child*some lunch.,569,4
+f056225247041558665fe7aa578a40b0,2,plausible,The bartender*poured*the customer*a drink.,517,1
+f056225247041558665fe7aa578a40b0,2,plausible,The bartender*poured*the customer*a drink.,453,2
+f056225247041558665fe7aa578a40b0,2,plausible,The bartender*poured*the customer*a drink.,484,3
+f056225247041558665fe7aa578a40b0,2,plausible,The bartender*poured*the customer*a drink.,514,4
+f056225247041558665fe7aa578a40b0,6,plausible,The secretary*ordered*the boss*some office supplies.,593,1
+f056225247041558665fe7aa578a40b0,6,plausible,The secretary*ordered*the boss*some office supplies.,494,2
+f056225247041558665fe7aa578a40b0,6,plausible,The secretary*ordered*the boss*some office supplies.,575,3
+f056225247041558665fe7aa578a40b0,6,plausible,The secretary*ordered*the boss*some office supplies.,1385,4
+f056225247041558665fe7aa578a40b0,9,implausible,The charity*built*a house*the hurricane victim.,436,1
+f056225247041558665fe7aa578a40b0,9,implausible,The charity*built*a house*the hurricane victim.,560,2
+f056225247041558665fe7aa578a40b0,9,implausible,The charity*built*a house*the hurricane victim.,741,3
+f056225247041558665fe7aa578a40b0,9,implausible,The charity*built*a house*the hurricane victim.,1244,4
+f056225247041558665fe7aa578a40b0,13,implausible,The receptionist*saved*some cake*her co-worker.,576,1
+f056225247041558665fe7aa578a40b0,13,implausible,The receptionist*saved*some cake*her co-worker.,545,2
+f056225247041558665fe7aa578a40b0,13,implausible,The receptionist*saved*some cake*her co-worker.,496,3
+f056225247041558665fe7aa578a40b0,13,implausible,The receptionist*saved*some cake*her co-worker.,747,4
+f056225247041558665fe7aa578a40b0,14,plausible,The seamstress*made*her client*a dress.,402,1
+f056225247041558665fe7aa578a40b0,14,plausible,The seamstress*made*her client*a dress.,704,2
+f056225247041558665fe7aa578a40b0,14,plausible,The seamstress*made*her client*a dress.,514,3
+f056225247041558665fe7aa578a40b0,14,plausible,The seamstress*made*her client*a dress.,683,4
+f056225247041558665fe7aa578a40b0,10,plausible,The waitress*fixed*the customer*a sandwich.,545,1
+f056225247041558665fe7aa578a40b0,10,plausible,The waitress*fixed*the customer*a sandwich.,495,2
+f056225247041558665fe7aa578a40b0,10,plausible,The waitress*fixed*the customer*a sandwich.,505,3
+f056225247041558665fe7aa578a40b0,10,plausible,The waitress*fixed*the customer*a sandwich.,579,4
+f056225247041558665fe7aa578a40b0,17,implausible,The travel agent*reserved*a flight*the businessman.,558,1
+f056225247041558665fe7aa578a40b0,17,implausible,The travel agent*reserved*a flight*the businessman.,562,2
+f056225247041558665fe7aa578a40b0,17,implausible,The travel agent*reserved*a flight*the businessman.,894,3
+f056225247041558665fe7aa578a40b0,17,implausible,The travel agent*reserved*a flight*the businessman.,683,4
+f056225247041558665fe7aa578a40b0,5,implausible,The apprentice*fetched*a hammer*the carpenter.,573,1
+f056225247041558665fe7aa578a40b0,5,implausible,The apprentice*fetched*a hammer*the carpenter.,648,2
+f056225247041558665fe7aa578a40b0,5,implausible,The apprentice*fetched*a hammer*the carpenter.,543,3
+f056225247041558665fe7aa578a40b0,5,implausible,The apprentice*fetched*a hammer*the carpenter.,610,4
+f056225247041558665fe7aa578a40b0,8,plausible,The father*bought*his son*a bicycle.,481,1
+f056225247041558665fe7aa578a40b0,8,plausible,The father*bought*his son*a bicycle.,509,2
+f056225247041558665fe7aa578a40b0,8,plausible,The father*bought*his son*a bicycle.,765,3
+f056225247041558665fe7aa578a40b0,8,plausible,The father*bought*his son*a bicycle.,785,4
+f056225247041558665fe7aa578a40b0,7,implausible,The wife*reserved*a table*her husband.,472,1
+f056225247041558665fe7aa578a40b0,7,implausible,The wife*reserved*a table*her husband.,482,2
+f056225247041558665fe7aa578a40b0,7,implausible,The wife*reserved*a table*her husband.,376,3
+f056225247041558665fe7aa578a40b0,7,implausible,The wife*reserved*a table*her husband.,565,4
+f056225247041558665fe7aa578a40b0,4,plausible,The grandmother*made*her granddaughter*a quilt.,505,1
+f056225247041558665fe7aa578a40b0,4,plausible,The grandmother*made*her granddaughter*a quilt.,457,2
+f056225247041558665fe7aa578a40b0,4,plausible,The grandmother*made*her granddaughter*a quilt.,528,3
+f056225247041558665fe7aa578a40b0,4,plausible,The grandmother*made*her granddaughter*a quilt.,551,4
+f056225247041558665fe7aa578a40b0,19,implausible,The church*built*a shelter*the homeless.,557,1
+f056225247041558665fe7aa578a40b0,19,implausible,The church*built*a shelter*the homeless.,398,2
+f056225247041558665fe7aa578a40b0,19,implausible,The church*built*a shelter*the homeless.,492,3
+f056225247041558665fe7aa578a40b0,19,implausible,The church*built*a shelter*the homeless.,527,4
+f056225247041558665fe7aa578a40b0,12,plausible,The nurse*poured*the old man*some water.,413,1
+f056225247041558665fe7aa578a40b0,12,plausible,The nurse*poured*the old man*some water.,399,2
+f056225247041558665fe7aa578a40b0,12,plausible,The nurse*poured*the old man*some water.,488,3
+f056225247041558665fe7aa578a40b0,12,plausible,The nurse*poured*the old man*some water.,732,4
+d35d3ed1ec1ec3452701139b5fbbed08,2,implausible,The bartender*poured*a drink*the customer.,1190,1
+d35d3ed1ec1ec3452701139b5fbbed08,2,implausible,The bartender*poured*a drink*the customer.,1071,2
+d35d3ed1ec1ec3452701139b5fbbed08,2,implausible,The bartender*poured*a drink*the customer.,578,3
+d35d3ed1ec1ec3452701139b5fbbed08,11,plausible,The grandmother*baked*the grandson*some cookies.,1266,1
+d35d3ed1ec1ec3452701139b5fbbed08,11,plausible,The grandmother*baked*the grandson*some cookies.,864,2
+d35d3ed1ec1ec3452701139b5fbbed08,11,plausible,The grandmother*baked*the grandson*some cookies.,1543,3
+d35d3ed1ec1ec3452701139b5fbbed08,20,implausible,The babysitter*fixed*some lunch*the child.,1170,1
+d35d3ed1ec1ec3452701139b5fbbed08,20,implausible,The babysitter*fixed*some lunch*the child.,673,2
+d35d3ed1ec1ec3452701139b5fbbed08,20,implausible,The babysitter*fixed*some lunch*the child.,871,3
+d35d3ed1ec1ec3452701139b5fbbed08,9,plausible,The charity*built*the hurricane victim*a house.,1440,1
+d35d3ed1ec1ec3452701139b5fbbed08,9,plausible,The charity*built*the hurricane victim*a house.,666,2
+d35d3ed1ec1ec3452701139b5fbbed08,9,plausible,The charity*built*the hurricane victim*a house.,815,4
+d35d3ed1ec1ec3452701139b5fbbed08,1,plausible,The cook*baked*Lucy*a cake.,564,1
+d35d3ed1ec1ec3452701139b5fbbed08,1,plausible,The cook*baked*Lucy*a cake.,515,2
+d35d3ed1ec1ec3452701139b5fbbed08,1,plausible,The cook*baked*Lucy*a cake.,806,3
+d35d3ed1ec1ec3452701139b5fbbed08,1,plausible,The cook*baked*Lucy*a cake.,1094,4
+d35d3ed1ec1ec3452701139b5fbbed08,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1352,1
+d35d3ed1ec1ec3452701139b5fbbed08,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1239,3
+d35d3ed1ec1ec3452701139b5fbbed08,17,plausible,The travel agent*reserved*the businessman*a flight.,1060,1
+d35d3ed1ec1ec3452701139b5fbbed08,17,plausible,The travel agent*reserved*the businessman*a flight.,966,2
+d35d3ed1ec1ec3452701139b5fbbed08,17,plausible,The travel agent*reserved*the businessman*a flight.,1280,3
+d35d3ed1ec1ec3452701139b5fbbed08,17,plausible,The travel agent*reserved*the businessman*a flight.,1974,4
+d35d3ed1ec1ec3452701139b5fbbed08,19,plausible,The church*built*the homeless*a shelter.,599,1
+d35d3ed1ec1ec3452701139b5fbbed08,19,plausible,The church*built*the homeless*a shelter.,617,2
+d35d3ed1ec1ec3452701139b5fbbed08,19,plausible,The church*built*the homeless*a shelter.,847,3
+d35d3ed1ec1ec3452701139b5fbbed08,19,plausible,The church*built*the homeless*a shelter.,992,4
+d35d3ed1ec1ec3452701139b5fbbed08,3,plausible,The woman*saved*her husband*a seat.,426,1
+d35d3ed1ec1ec3452701139b5fbbed08,3,plausible,The woman*saved*her husband*a seat.,691,2
+d35d3ed1ec1ec3452701139b5fbbed08,3,plausible,The woman*saved*her husband*a seat.,879,3
+d35d3ed1ec1ec3452701139b5fbbed08,3,plausible,The woman*saved*her husband*a seat.,1132,4
+d35d3ed1ec1ec3452701139b5fbbed08,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1152,1
+d35d3ed1ec1ec3452701139b5fbbed08,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1186,2
+d35d3ed1ec1ec3452701139b5fbbed08,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1602,3
+d35d3ed1ec1ec3452701139b5fbbed08,10,implausible,The waitress*fixed*a sandwich*the customer.,827,1
+d35d3ed1ec1ec3452701139b5fbbed08,10,implausible,The waitress*fixed*a sandwich*the customer.,608,2
+d35d3ed1ec1ec3452701139b5fbbed08,10,implausible,The waitress*fixed*a sandwich*the customer.,1106,3
+d35d3ed1ec1ec3452701139b5fbbed08,6,implausible,The secretary*ordered*some office supplies*the boss.,1163,1
+d35d3ed1ec1ec3452701139b5fbbed08,6,implausible,The secretary*ordered*some office supplies*the boss.,967,2
+d35d3ed1ec1ec3452701139b5fbbed08,6,implausible,The secretary*ordered*some office supplies*the boss.,1703,3
+d35d3ed1ec1ec3452701139b5fbbed08,14,implausible,The seamstress*made*a dress*her client.,912,2
+d35d3ed1ec1ec3452701139b5fbbed08,14,implausible,The seamstress*made*a dress*her client.,537,3
+d35d3ed1ec1ec3452701139b5fbbed08,14,implausible,The seamstress*made*a dress*her client.,1563,4
+d35d3ed1ec1ec3452701139b5fbbed08,8,implausible,The father*bought*a bicycle*his son.,706,1
+d35d3ed1ec1ec3452701139b5fbbed08,8,implausible,The father*bought*a bicycle*his son.,596,2
+d35d3ed1ec1ec3452701139b5fbbed08,8,implausible,The father*bought*a bicycle*his son.,955,3
+d35d3ed1ec1ec3452701139b5fbbed08,8,implausible,The father*bought*a bicycle*his son.,1100,4
+d35d3ed1ec1ec3452701139b5fbbed08,7,plausible,The wife*reserved*her husband*a table.,738,1
+d35d3ed1ec1ec3452701139b5fbbed08,7,plausible,The wife*reserved*her husband*a table.,621,2
+d35d3ed1ec1ec3452701139b5fbbed08,7,plausible,The wife*reserved*her husband*a table.,592,3
+d35d3ed1ec1ec3452701139b5fbbed08,7,plausible,The wife*reserved*her husband*a table.,1069,4
+d35d3ed1ec1ec3452701139b5fbbed08,13,plausible,The receptionist*saved*her co-worker*some cake.,1103,1
+d35d3ed1ec1ec3452701139b5fbbed08,13,plausible,The receptionist*saved*her co-worker*some cake.,650,2
+d35d3ed1ec1ec3452701139b5fbbed08,13,plausible,The receptionist*saved*her co-worker*some cake.,1173,3
+d35d3ed1ec1ec3452701139b5fbbed08,13,plausible,The receptionist*saved*her co-worker*some cake.,1683,4
+d35d3ed1ec1ec3452701139b5fbbed08,4,implausible,The grandmother*made*a quilt*her granddaughter.,1060,1
+d35d3ed1ec1ec3452701139b5fbbed08,4,implausible,The grandmother*made*a quilt*her granddaughter.,514,2
+d35d3ed1ec1ec3452701139b5fbbed08,4,implausible,The grandmother*made*a quilt*her granddaughter.,559,3
+d35d3ed1ec1ec3452701139b5fbbed08,5,plausible,The apprentice*fetched*the carpenter*a hammer.,835,2
+d35d3ed1ec1ec3452701139b5fbbed08,16,implausible,The man*ordered*some champagne*his girlfriend.,682,1
+d35d3ed1ec1ec3452701139b5fbbed08,16,implausible,The man*ordered*some champagne*his girlfriend.,599,2
+d35d3ed1ec1ec3452701139b5fbbed08,16,implausible,The man*ordered*some champagne*his girlfriend.,1298,3
+d35d3ed1ec1ec3452701139b5fbbed08,16,implausible,The man*ordered*some champagne*his girlfriend.,1154,4
+d35d3ed1ec1ec3452701139b5fbbed08,12,implausible,The nurse*poured*some water*the old man.,816,1
+d35d3ed1ec1ec3452701139b5fbbed08,12,implausible,The nurse*poured*some water*the old man.,1128,2
+d35d3ed1ec1ec3452701139b5fbbed08,12,implausible,The nurse*poured*some water*the old man.,572,3
+d35d3ed1ec1ec3452701139b5fbbed08,12,implausible,The nurse*poured*some water*the old man.,1322,4
+4553ff552fde0b279f147b9cc7f2a8f1,14,plausible,The seamstress*made*her client*a dress.,967,1
+4553ff552fde0b279f147b9cc7f2a8f1,14,plausible,The seamstress*made*her client*a dress.,949,2
+4553ff552fde0b279f147b9cc7f2a8f1,14,plausible,The seamstress*made*her client*a dress.,873,3
+4553ff552fde0b279f147b9cc7f2a8f1,14,plausible,The seamstress*made*her client*a dress.,1293,4
+4553ff552fde0b279f147b9cc7f2a8f1,17,implausible,The travel agent*reserved*a flight*the businessman.,1081,1
+4553ff552fde0b279f147b9cc7f2a8f1,17,implausible,The travel agent*reserved*a flight*the businessman.,774,2
+4553ff552fde0b279f147b9cc7f2a8f1,17,implausible,The travel agent*reserved*a flight*the businessman.,688,3
+4553ff552fde0b279f147b9cc7f2a8f1,11,implausible,The grandmother*baked*some cookies*the grandson.,935,1
+4553ff552fde0b279f147b9cc7f2a8f1,11,implausible,The grandmother*baked*some cookies*the grandson.,672,2
+4553ff552fde0b279f147b9cc7f2a8f1,11,implausible,The grandmother*baked*some cookies*the grandson.,642,3
+4553ff552fde0b279f147b9cc7f2a8f1,7,implausible,The wife*reserved*a table*her husband.,564,1
+4553ff552fde0b279f147b9cc7f2a8f1,7,implausible,The wife*reserved*a table*her husband.,458,2
+4553ff552fde0b279f147b9cc7f2a8f1,7,implausible,The wife*reserved*a table*her husband.,395,3
+4553ff552fde0b279f147b9cc7f2a8f1,20,plausible,The babysitter*fixed*the child*some lunch.,529,1
+4553ff552fde0b279f147b9cc7f2a8f1,20,plausible,The babysitter*fixed*the child*some lunch.,425,2
+4553ff552fde0b279f147b9cc7f2a8f1,20,plausible,The babysitter*fixed*the child*some lunch.,438,3
+4553ff552fde0b279f147b9cc7f2a8f1,20,plausible,The babysitter*fixed*the child*some lunch.,1937,4
+4553ff552fde0b279f147b9cc7f2a8f1,8,plausible,The father*bought*his son*a bicycle.,1045,1
+4553ff552fde0b279f147b9cc7f2a8f1,8,plausible,The father*bought*his son*a bicycle.,563,2
+4553ff552fde0b279f147b9cc7f2a8f1,8,plausible,The father*bought*his son*a bicycle.,505,3
+4553ff552fde0b279f147b9cc7f2a8f1,8,plausible,The father*bought*his son*a bicycle.,963,4
+4553ff552fde0b279f147b9cc7f2a8f1,13,implausible,The receptionist*saved*some cake*her co-worker.,613,1
+4553ff552fde0b279f147b9cc7f2a8f1,13,implausible,The receptionist*saved*some cake*her co-worker.,629,2
+4553ff552fde0b279f147b9cc7f2a8f1,13,implausible,The receptionist*saved*some cake*her co-worker.,644,3
+4553ff552fde0b279f147b9cc7f2a8f1,1,implausible,The cook*baked*a cake*Lucy.,664,1
+4553ff552fde0b279f147b9cc7f2a8f1,1,implausible,The cook*baked*a cake*Lucy.,710,2
+4553ff552fde0b279f147b9cc7f2a8f1,1,implausible,The cook*baked*a cake*Lucy.,648,3
+4553ff552fde0b279f147b9cc7f2a8f1,1,implausible,The cook*baked*a cake*Lucy.,1358,4
+4553ff552fde0b279f147b9cc7f2a8f1,9,implausible,The charity*built*a house*the hurricane victim.,856,1
+4553ff552fde0b279f147b9cc7f2a8f1,9,implausible,The charity*built*a house*the hurricane victim.,1179,2
+4553ff552fde0b279f147b9cc7f2a8f1,9,implausible,The charity*built*a house*the hurricane victim.,540,3
+4553ff552fde0b279f147b9cc7f2a8f1,16,plausible,The man*ordered*his girlfriend*some champagne.,609,1
+4553ff552fde0b279f147b9cc7f2a8f1,16,plausible,The man*ordered*his girlfriend*some champagne.,776,2
+4553ff552fde0b279f147b9cc7f2a8f1,16,plausible,The man*ordered*his girlfriend*some champagne.,730,3
+4553ff552fde0b279f147b9cc7f2a8f1,16,plausible,The man*ordered*his girlfriend*some champagne.,1156,4
+4553ff552fde0b279f147b9cc7f2a8f1,12,plausible,The nurse*poured*the old man*some water.,706,1
+4553ff552fde0b279f147b9cc7f2a8f1,12,plausible,The nurse*poured*the old man*some water.,1015,2
+4553ff552fde0b279f147b9cc7f2a8f1,12,plausible,The nurse*poured*the old man*some water.,587,3
+4553ff552fde0b279f147b9cc7f2a8f1,12,plausible,The nurse*poured*the old man*some water.,1585,4
+4553ff552fde0b279f147b9cc7f2a8f1,4,plausible,The grandmother*made*her granddaughter*a quilt.,643,1
+4553ff552fde0b279f147b9cc7f2a8f1,4,plausible,The grandmother*made*her granddaughter*a quilt.,550,2
+4553ff552fde0b279f147b9cc7f2a8f1,4,plausible,The grandmother*made*her granddaughter*a quilt.,765,3
+4553ff552fde0b279f147b9cc7f2a8f1,4,plausible,The grandmother*made*her granddaughter*a quilt.,1846,4
+4553ff552fde0b279f147b9cc7f2a8f1,10,plausible,The waitress*fixed*the customer*a sandwich.,1227,1
+4553ff552fde0b279f147b9cc7f2a8f1,10,plausible,The waitress*fixed*the customer*a sandwich.,907,2
+4553ff552fde0b279f147b9cc7f2a8f1,10,plausible,The waitress*fixed*the customer*a sandwich.,746,3
+4553ff552fde0b279f147b9cc7f2a8f1,10,plausible,The waitress*fixed*the customer*a sandwich.,1576,4
+4553ff552fde0b279f147b9cc7f2a8f1,19,implausible,The church*built*a shelter*the homeless.,645,1
+4553ff552fde0b279f147b9cc7f2a8f1,19,implausible,The church*built*a shelter*the homeless.,736,2
+4553ff552fde0b279f147b9cc7f2a8f1,19,implausible,The church*built*a shelter*the homeless.,832,3
+4553ff552fde0b279f147b9cc7f2a8f1,19,implausible,The church*built*a shelter*the homeless.,1360,4
+4553ff552fde0b279f147b9cc7f2a8f1,6,plausible,The secretary*ordered*the boss*some office supplies.,590,1
+4553ff552fde0b279f147b9cc7f2a8f1,6,plausible,The secretary*ordered*the boss*some office supplies.,669,2
+4553ff552fde0b279f147b9cc7f2a8f1,6,plausible,The secretary*ordered*the boss*some office supplies.,649,3
+4553ff552fde0b279f147b9cc7f2a8f1,6,plausible,The secretary*ordered*the boss*some office supplies.,858,4
+4553ff552fde0b279f147b9cc7f2a8f1,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,773,1
+4553ff552fde0b279f147b9cc7f2a8f1,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,540,2
+4553ff552fde0b279f147b9cc7f2a8f1,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,574,3
+4553ff552fde0b279f147b9cc7f2a8f1,2,plausible,The bartender*poured*the customer*a drink.,837,1
+4553ff552fde0b279f147b9cc7f2a8f1,2,plausible,The bartender*poured*the customer*a drink.,703,2
+4553ff552fde0b279f147b9cc7f2a8f1,2,plausible,The bartender*poured*the customer*a drink.,1152,3
+4553ff552fde0b279f147b9cc7f2a8f1,2,plausible,The bartender*poured*the customer*a drink.,1100,4
+4553ff552fde0b279f147b9cc7f2a8f1,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,595,1
+4553ff552fde0b279f147b9cc7f2a8f1,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,653,2
+4553ff552fde0b279f147b9cc7f2a8f1,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,602,3
+4553ff552fde0b279f147b9cc7f2a8f1,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1176,4
+4553ff552fde0b279f147b9cc7f2a8f1,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1125,1
+4553ff552fde0b279f147b9cc7f2a8f1,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1583,2
+4553ff552fde0b279f147b9cc7f2a8f1,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1353,3
+4553ff552fde0b279f147b9cc7f2a8f1,5,implausible,The apprentice*fetched*a hammer*the carpenter.,757,4
+4553ff552fde0b279f147b9cc7f2a8f1,3,implausible,The woman*saved*a seat*her husband.,560,1
+4553ff552fde0b279f147b9cc7f2a8f1,3,implausible,The woman*saved*a seat*her husband.,520,2
+4553ff552fde0b279f147b9cc7f2a8f1,3,implausible,The woman*saved*a seat*her husband.,498,3
+4553ff552fde0b279f147b9cc7f2a8f1,3,implausible,The woman*saved*a seat*her husband.,717,4
+a6cb8d31cdb7346438395858d0824bfa,13,plausible,The receptionist*saved*her co-worker*some cake.,1724,3
+a6cb8d31cdb7346438395858d0824bfa,13,plausible,The receptionist*saved*her co-worker*some cake.,1812,2
+a6cb8d31cdb7346438395858d0824bfa,2,implausible,The bartender*poured*a drink*the customer.,1551,3
+a6cb8d31cdb7346438395858d0824bfa,2,implausible,The bartender*poured*a drink*the customer.,1631,2
+a6cb8d31cdb7346438395858d0824bfa,14,implausible,The seamstress*made*a dress*her client.,751,3
+a6cb8d31cdb7346438395858d0824bfa,14,implausible,The seamstress*made*a dress*her client.,848,2
+a6cb8d31cdb7346438395858d0824bfa,14,implausible,The seamstress*made*a dress*her client.,1603,1
+a6cb8d31cdb7346438395858d0824bfa,10,implausible,The waitress*fixed*a sandwich*the customer.,1221,4
+a6cb8d31cdb7346438395858d0824bfa,10,implausible,The waitress*fixed*a sandwich*the customer.,1605,3
+a6cb8d31cdb7346438395858d0824bfa,10,implausible,The waitress*fixed*a sandwich*the customer.,1830,2
+a6cb8d31cdb7346438395858d0824bfa,10,implausible,The waitress*fixed*a sandwich*the customer.,900,1
+a6cb8d31cdb7346438395858d0824bfa,7,plausible,The wife*reserved*her husband*a table.,1895,3
+a6cb8d31cdb7346438395858d0824bfa,7,plausible,The wife*reserved*her husband*a table.,679,2
+a6cb8d31cdb7346438395858d0824bfa,7,plausible,The wife*reserved*her husband*a table.,903,1
+a6cb8d31cdb7346438395858d0824bfa,12,implausible,The nurse*poured*some water*the old man.,1088,4
+a6cb8d31cdb7346438395858d0824bfa,12,implausible,The nurse*poured*some water*the old man.,705,3
+a6cb8d31cdb7346438395858d0824bfa,12,implausible,The nurse*poured*some water*the old man.,949,2
+a6cb8d31cdb7346438395858d0824bfa,12,implausible,The nurse*poured*some water*the old man.,1364,1
+a6cb8d31cdb7346438395858d0824bfa,4,implausible,The grandmother*made*a quilt*her granddaughter.,939,4
+a6cb8d31cdb7346438395858d0824bfa,4,implausible,The grandmother*made*a quilt*her granddaughter.,1007,3
+a6cb8d31cdb7346438395858d0824bfa,4,implausible,The grandmother*made*a quilt*her granddaughter.,1089,2
+a6cb8d31cdb7346438395858d0824bfa,4,implausible,The grandmother*made*a quilt*her granddaughter.,1692,1
+a6cb8d31cdb7346438395858d0824bfa,3,plausible,The woman*saved*her husband*a seat.,1197,4
+a6cb8d31cdb7346438395858d0824bfa,3,plausible,The woman*saved*her husband*a seat.,1084,3
+a6cb8d31cdb7346438395858d0824bfa,3,plausible,The woman*saved*her husband*a seat.,772,2
+a6cb8d31cdb7346438395858d0824bfa,3,plausible,The woman*saved*her husband*a seat.,1071,1
+a6cb8d31cdb7346438395858d0824bfa,11,plausible,The grandmother*baked*the grandson*some cookies.,812,2
+a6cb8d31cdb7346438395858d0824bfa,11,plausible,The grandmother*baked*the grandson*some cookies.,1048,1
+a6cb8d31cdb7346438395858d0824bfa,1,plausible,The cook*baked*Lucy*a cake.,1650,4
+a6cb8d31cdb7346438395858d0824bfa,1,plausible,The cook*baked*Lucy*a cake.,538,3
+a6cb8d31cdb7346438395858d0824bfa,1,plausible,The cook*baked*Lucy*a cake.,883,2
+a6cb8d31cdb7346438395858d0824bfa,1,plausible,The cook*baked*Lucy*a cake.,543,1
+a6cb8d31cdb7346438395858d0824bfa,5,plausible,The apprentice*fetched*the carpenter*a hammer.,874,3
+a6cb8d31cdb7346438395858d0824bfa,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1179,2
+a6cb8d31cdb7346438395858d0824bfa,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1691,1
+a6cb8d31cdb7346438395858d0824bfa,19,plausible,The church*built*the homeless*a shelter.,1305,3
+a6cb8d31cdb7346438395858d0824bfa,19,plausible,The church*built*the homeless*a shelter.,1062,2
+a6cb8d31cdb7346438395858d0824bfa,19,plausible,The church*built*the homeless*a shelter.,906,1
+a6cb8d31cdb7346438395858d0824bfa,8,implausible,The father*bought*a bicycle*his son.,752,4
+a6cb8d31cdb7346438395858d0824bfa,8,implausible,The father*bought*a bicycle*his son.,655,3
+a6cb8d31cdb7346438395858d0824bfa,8,implausible,The father*bought*a bicycle*his son.,758,2
+a6cb8d31cdb7346438395858d0824bfa,8,implausible,The father*bought*a bicycle*his son.,1136,1
+a6cb8d31cdb7346438395858d0824bfa,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1540,3
+a6cb8d31cdb7346438395858d0824bfa,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1641,2
+a6cb8d31cdb7346438395858d0824bfa,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1194,4
+a6cb8d31cdb7346438395858d0824bfa,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1580,3
+a6cb8d31cdb7346438395858d0824bfa,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1103,2
+a6cb8d31cdb7346438395858d0824bfa,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,896,1
+a6cb8d31cdb7346438395858d0824bfa,16,implausible,The man*ordered*some champagne*his girlfriend.,860,4
+a6cb8d31cdb7346438395858d0824bfa,16,implausible,The man*ordered*some champagne*his girlfriend.,926,3
+a6cb8d31cdb7346438395858d0824bfa,16,implausible,The man*ordered*some champagne*his girlfriend.,801,2
+a6cb8d31cdb7346438395858d0824bfa,16,implausible,The man*ordered*some champagne*his girlfriend.,619,1
+a6cb8d31cdb7346438395858d0824bfa,6,implausible,The secretary*ordered*some office supplies*the boss.,1984,4
+a6cb8d31cdb7346438395858d0824bfa,6,implausible,The secretary*ordered*some office supplies*the boss.,1190,3
+a6cb8d31cdb7346438395858d0824bfa,6,implausible,The secretary*ordered*some office supplies*the boss.,687,2
+a6cb8d31cdb7346438395858d0824bfa,6,implausible,The secretary*ordered*some office supplies*the boss.,959,1
+a6cb8d31cdb7346438395858d0824bfa,17,plausible,The travel agent*reserved*the businessman*a flight.,764,3
+a6cb8d31cdb7346438395858d0824bfa,17,plausible,The travel agent*reserved*the businessman*a flight.,601,2
+a6cb8d31cdb7346438395858d0824bfa,17,plausible,The travel agent*reserved*the businessman*a flight.,902,1
+a6cb8d31cdb7346438395858d0824bfa,20,implausible,The babysitter*fixed*some lunch*the child.,1508,4
+a6cb8d31cdb7346438395858d0824bfa,20,implausible,The babysitter*fixed*some lunch*the child.,537,3
+a6cb8d31cdb7346438395858d0824bfa,20,implausible,The babysitter*fixed*some lunch*the child.,530,2
+a6cb8d31cdb7346438395858d0824bfa,20,implausible,The babysitter*fixed*some lunch*the child.,702,1
+a6cb8d31cdb7346438395858d0824bfa,9,plausible,The charity*built*the hurricane victim*a house.,653,2
+a6cb8d31cdb7346438395858d0824bfa,9,plausible,The charity*built*the hurricane victim*a house.,603,1
+3a349d5805754f5c920d5c011aa7ed2c,11,implausible,The grandmother*baked*some cookies*the grandson.,1006,1
+3a349d5805754f5c920d5c011aa7ed2c,11,implausible,The grandmother*baked*some cookies*the grandson.,834,2
+3a349d5805754f5c920d5c011aa7ed2c,11,implausible,The grandmother*baked*some cookies*the grandson.,922,3
+3a349d5805754f5c920d5c011aa7ed2c,11,implausible,The grandmother*baked*some cookies*the grandson.,1993,4
+3a349d5805754f5c920d5c011aa7ed2c,16,plausible,The man*ordered*his girlfriend*some champagne.,502,1
+3a349d5805754f5c920d5c011aa7ed2c,16,plausible,The man*ordered*his girlfriend*some champagne.,597,2
+3a349d5805754f5c920d5c011aa7ed2c,16,plausible,The man*ordered*his girlfriend*some champagne.,767,3
+3a349d5805754f5c920d5c011aa7ed2c,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,576,1
+3a349d5805754f5c920d5c011aa7ed2c,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,837,2
+3a349d5805754f5c920d5c011aa7ed2c,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1430,3
+3a349d5805754f5c920d5c011aa7ed2c,9,implausible,The charity*built*a house*the hurricane victim.,1095,1
+3a349d5805754f5c920d5c011aa7ed2c,9,implausible,The charity*built*a house*the hurricane victim.,636,2
+3a349d5805754f5c920d5c011aa7ed2c,9,implausible,The charity*built*a house*the hurricane victim.,516,3
+3a349d5805754f5c920d5c011aa7ed2c,17,implausible,The travel agent*reserved*a flight*the businessman.,1123,1
+3a349d5805754f5c920d5c011aa7ed2c,17,implausible,The travel agent*reserved*a flight*the businessman.,648,2
+3a349d5805754f5c920d5c011aa7ed2c,17,implausible,The travel agent*reserved*a flight*the businessman.,553,3
+3a349d5805754f5c920d5c011aa7ed2c,10,plausible,The waitress*fixed*the customer*a sandwich.,707,1
+3a349d5805754f5c920d5c011aa7ed2c,10,plausible,The waitress*fixed*the customer*a sandwich.,441,2
+3a349d5805754f5c920d5c011aa7ed2c,10,plausible,The waitress*fixed*the customer*a sandwich.,535,3
+3a349d5805754f5c920d5c011aa7ed2c,10,plausible,The waitress*fixed*the customer*a sandwich.,1679,4
+3a349d5805754f5c920d5c011aa7ed2c,6,plausible,The secretary*ordered*the boss*some office supplies.,625,1
+3a349d5805754f5c920d5c011aa7ed2c,6,plausible,The secretary*ordered*the boss*some office supplies.,514,2
+3a349d5805754f5c920d5c011aa7ed2c,6,plausible,The secretary*ordered*the boss*some office supplies.,475,3
+3a349d5805754f5c920d5c011aa7ed2c,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,451,1
+3a349d5805754f5c920d5c011aa7ed2c,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,456,2
+3a349d5805754f5c920d5c011aa7ed2c,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,639,3
+3a349d5805754f5c920d5c011aa7ed2c,13,implausible,The receptionist*saved*some cake*her co-worker.,354,1
+3a349d5805754f5c920d5c011aa7ed2c,13,implausible,The receptionist*saved*some cake*her co-worker.,826,2
+3a349d5805754f5c920d5c011aa7ed2c,13,implausible,The receptionist*saved*some cake*her co-worker.,578,3
+3a349d5805754f5c920d5c011aa7ed2c,19,implausible,The church*built*a shelter*the homeless.,495,1
+3a349d5805754f5c920d5c011aa7ed2c,19,implausible,The church*built*a shelter*the homeless.,515,2
+3a349d5805754f5c920d5c011aa7ed2c,19,implausible,The church*built*a shelter*the homeless.,479,3
+3a349d5805754f5c920d5c011aa7ed2c,3,implausible,The woman*saved*a seat*her husband.,516,1
+3a349d5805754f5c920d5c011aa7ed2c,3,implausible,The woman*saved*a seat*her husband.,494,2
+3a349d5805754f5c920d5c011aa7ed2c,3,implausible,The woman*saved*a seat*her husband.,518,3
+3a349d5805754f5c920d5c011aa7ed2c,2,plausible,The bartender*poured*the customer*a drink.,670,1
+3a349d5805754f5c920d5c011aa7ed2c,2,plausible,The bartender*poured*the customer*a drink.,765,2
+3a349d5805754f5c920d5c011aa7ed2c,2,plausible,The bartender*poured*the customer*a drink.,520,3
+3a349d5805754f5c920d5c011aa7ed2c,2,plausible,The bartender*poured*the customer*a drink.,1417,4
+3a349d5805754f5c920d5c011aa7ed2c,12,plausible,The nurse*poured*the old man*some water.,510,1
+3a349d5805754f5c920d5c011aa7ed2c,12,plausible,The nurse*poured*the old man*some water.,537,2
+3a349d5805754f5c920d5c011aa7ed2c,12,plausible,The nurse*poured*the old man*some water.,598,3
+3a349d5805754f5c920d5c011aa7ed2c,12,plausible,The nurse*poured*the old man*some water.,1755,4
+3a349d5805754f5c920d5c011aa7ed2c,20,plausible,The babysitter*fixed*the child*some lunch.,706,1
+3a349d5805754f5c920d5c011aa7ed2c,20,plausible,The babysitter*fixed*the child*some lunch.,694,2
+3a349d5805754f5c920d5c011aa7ed2c,20,plausible,The babysitter*fixed*the child*some lunch.,595,3
+3a349d5805754f5c920d5c011aa7ed2c,8,plausible,The father*bought*his son*a bicycle.,491,1
+3a349d5805754f5c920d5c011aa7ed2c,8,plausible,The father*bought*his son*a bicycle.,464,2
+3a349d5805754f5c920d5c011aa7ed2c,8,plausible,The father*bought*his son*a bicycle.,468,3
+3a349d5805754f5c920d5c011aa7ed2c,8,plausible,The father*bought*his son*a bicycle.,1617,4
+3a349d5805754f5c920d5c011aa7ed2c,4,plausible,The grandmother*made*her granddaughter*a quilt.,469,1
+3a349d5805754f5c920d5c011aa7ed2c,4,plausible,The grandmother*made*her granddaughter*a quilt.,666,2
+3a349d5805754f5c920d5c011aa7ed2c,4,plausible,The grandmother*made*her granddaughter*a quilt.,511,3
+3a349d5805754f5c920d5c011aa7ed2c,7,implausible,The wife*reserved*a table*her husband.,381,1
+3a349d5805754f5c920d5c011aa7ed2c,7,implausible,The wife*reserved*a table*her husband.,487,2
+3a349d5805754f5c920d5c011aa7ed2c,7,implausible,The wife*reserved*a table*her husband.,465,3
+3a349d5805754f5c920d5c011aa7ed2c,5,implausible,The apprentice*fetched*a hammer*the carpenter.,321,1
+3a349d5805754f5c920d5c011aa7ed2c,5,implausible,The apprentice*fetched*a hammer*the carpenter.,804,2
+3a349d5805754f5c920d5c011aa7ed2c,5,implausible,The apprentice*fetched*a hammer*the carpenter.,768,3
+3a349d5805754f5c920d5c011aa7ed2c,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1613,4
+3a349d5805754f5c920d5c011aa7ed2c,14,plausible,The seamstress*made*her client*a dress.,891,1
+3a349d5805754f5c920d5c011aa7ed2c,14,plausible,The seamstress*made*her client*a dress.,520,2
+3a349d5805754f5c920d5c011aa7ed2c,14,plausible,The seamstress*made*her client*a dress.,459,3
+3a349d5805754f5c920d5c011aa7ed2c,14,plausible,The seamstress*made*her client*a dress.,1584,4
+3a349d5805754f5c920d5c011aa7ed2c,1,implausible,The cook*baked*a cake*Lucy.,457,1
+3a349d5805754f5c920d5c011aa7ed2c,1,implausible,The cook*baked*a cake*Lucy.,495,2
+3a349d5805754f5c920d5c011aa7ed2c,1,implausible,The cook*baked*a cake*Lucy.,528,3
+58f37899c02d0bb52f25368cecc352c5,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,654,1
+58f37899c02d0bb52f25368cecc352c5,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,678,2
+58f37899c02d0bb52f25368cecc352c5,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1381,3
+58f37899c02d0bb52f25368cecc352c5,12,implausible,The nurse*poured*some water*the old man.,606,1
+58f37899c02d0bb52f25368cecc352c5,12,implausible,The nurse*poured*some water*the old man.,730,2
+58f37899c02d0bb52f25368cecc352c5,12,implausible,The nurse*poured*some water*the old man.,698,3
+58f37899c02d0bb52f25368cecc352c5,9,plausible,The charity*built*the hurricane victim*a house.,620,1
+58f37899c02d0bb52f25368cecc352c5,9,plausible,The charity*built*the hurricane victim*a house.,459,2
+58f37899c02d0bb52f25368cecc352c5,9,plausible,The charity*built*the hurricane victim*a house.,1855,3
+58f37899c02d0bb52f25368cecc352c5,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,781,1
+58f37899c02d0bb52f25368cecc352c5,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,666,2
+58f37899c02d0bb52f25368cecc352c5,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,760,3
+58f37899c02d0bb52f25368cecc352c5,4,implausible,The grandmother*made*a quilt*her granddaughter.,611,1
+58f37899c02d0bb52f25368cecc352c5,4,implausible,The grandmother*made*a quilt*her granddaughter.,537,2
+58f37899c02d0bb52f25368cecc352c5,4,implausible,The grandmother*made*a quilt*her granddaughter.,1800,4
+58f37899c02d0bb52f25368cecc352c5,3,plausible,The woman*saved*her husband*a seat.,510,1
+58f37899c02d0bb52f25368cecc352c5,3,plausible,The woman*saved*her husband*a seat.,462,2
+58f37899c02d0bb52f25368cecc352c5,3,plausible,The woman*saved*her husband*a seat.,904,3
+58f37899c02d0bb52f25368cecc352c5,3,plausible,The woman*saved*her husband*a seat.,1154,4
+58f37899c02d0bb52f25368cecc352c5,6,implausible,The secretary*ordered*some office supplies*the boss.,514,1
+58f37899c02d0bb52f25368cecc352c5,6,implausible,The secretary*ordered*some office supplies*the boss.,590,2
+58f37899c02d0bb52f25368cecc352c5,6,implausible,The secretary*ordered*some office supplies*the boss.,1532,3
+58f37899c02d0bb52f25368cecc352c5,1,plausible,The cook*baked*Lucy*a cake.,466,1
+58f37899c02d0bb52f25368cecc352c5,1,plausible,The cook*baked*Lucy*a cake.,1416,2
+58f37899c02d0bb52f25368cecc352c5,1,plausible,The cook*baked*Lucy*a cake.,638,3
+58f37899c02d0bb52f25368cecc352c5,1,plausible,The cook*baked*Lucy*a cake.,1488,4
+58f37899c02d0bb52f25368cecc352c5,17,plausible,The travel agent*reserved*the businessman*a flight.,851,1
+58f37899c02d0bb52f25368cecc352c5,17,plausible,The travel agent*reserved*the businessman*a flight.,646,2
+58f37899c02d0bb52f25368cecc352c5,17,plausible,The travel agent*reserved*the businessman*a flight.,776,3
+58f37899c02d0bb52f25368cecc352c5,17,plausible,The travel agent*reserved*the businessman*a flight.,1692,4
+58f37899c02d0bb52f25368cecc352c5,16,implausible,The man*ordered*some champagne*his girlfriend.,510,1
+58f37899c02d0bb52f25368cecc352c5,16,implausible,The man*ordered*some champagne*his girlfriend.,581,2
+58f37899c02d0bb52f25368cecc352c5,16,implausible,The man*ordered*some champagne*his girlfriend.,803,3
+58f37899c02d0bb52f25368cecc352c5,13,plausible,The receptionist*saved*her co-worker*some cake.,576,1
+58f37899c02d0bb52f25368cecc352c5,13,plausible,The receptionist*saved*her co-worker*some cake.,523,2
+58f37899c02d0bb52f25368cecc352c5,13,plausible,The receptionist*saved*her co-worker*some cake.,1118,3
+58f37899c02d0bb52f25368cecc352c5,13,plausible,The receptionist*saved*her co-worker*some cake.,1281,4
+58f37899c02d0bb52f25368cecc352c5,5,plausible,The apprentice*fetched*the carpenter*a hammer.,955,1
+58f37899c02d0bb52f25368cecc352c5,5,plausible,The apprentice*fetched*the carpenter*a hammer.,721,2
+58f37899c02d0bb52f25368cecc352c5,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1149,3
+58f37899c02d0bb52f25368cecc352c5,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1921,4
+58f37899c02d0bb52f25368cecc352c5,20,implausible,The babysitter*fixed*some lunch*the child.,692,1
+58f37899c02d0bb52f25368cecc352c5,20,implausible,The babysitter*fixed*some lunch*the child.,631,2
+58f37899c02d0bb52f25368cecc352c5,20,implausible,The babysitter*fixed*some lunch*the child.,706,3
+58f37899c02d0bb52f25368cecc352c5,20,implausible,The babysitter*fixed*some lunch*the child.,1139,4
+58f37899c02d0bb52f25368cecc352c5,11,plausible,The grandmother*baked*the grandson*some cookies.,694,1
+58f37899c02d0bb52f25368cecc352c5,11,plausible,The grandmother*baked*the grandson*some cookies.,513,2
+58f37899c02d0bb52f25368cecc352c5,11,plausible,The grandmother*baked*the grandson*some cookies.,1118,3
+58f37899c02d0bb52f25368cecc352c5,7,plausible,The wife*reserved*her husband*a table.,522,1
+58f37899c02d0bb52f25368cecc352c5,7,plausible,The wife*reserved*her husband*a table.,1365,4
+58f37899c02d0bb52f25368cecc352c5,14,implausible,The seamstress*made*a dress*her client.,1722,1
+58f37899c02d0bb52f25368cecc352c5,14,implausible,The seamstress*made*a dress*her client.,707,2
+58f37899c02d0bb52f25368cecc352c5,14,implausible,The seamstress*made*a dress*her client.,896,3
+58f37899c02d0bb52f25368cecc352c5,10,implausible,The waitress*fixed*a sandwich*the customer.,592,1
+58f37899c02d0bb52f25368cecc352c5,10,implausible,The waitress*fixed*a sandwich*the customer.,558,2
+58f37899c02d0bb52f25368cecc352c5,10,implausible,The waitress*fixed*a sandwich*the customer.,1035,3
+58f37899c02d0bb52f25368cecc352c5,10,implausible,The waitress*fixed*a sandwich*the customer.,887,4
+58f37899c02d0bb52f25368cecc352c5,8,implausible,The father*bought*a bicycle*his son.,584,1
+58f37899c02d0bb52f25368cecc352c5,8,implausible,The father*bought*a bicycle*his son.,655,2
+58f37899c02d0bb52f25368cecc352c5,8,implausible,The father*bought*a bicycle*his son.,688,3
+58f37899c02d0bb52f25368cecc352c5,8,implausible,The father*bought*a bicycle*his son.,730,4
+58f37899c02d0bb52f25368cecc352c5,2,implausible,The bartender*poured*a drink*the customer.,644,1
+58f37899c02d0bb52f25368cecc352c5,2,implausible,The bartender*poured*a drink*the customer.,542,2
+58f37899c02d0bb52f25368cecc352c5,2,implausible,The bartender*poured*a drink*the customer.,575,3
+58f37899c02d0bb52f25368cecc352c5,2,implausible,The bartender*poured*a drink*the customer.,1175,4
+58f37899c02d0bb52f25368cecc352c5,19,plausible,The church*built*the homeless*a shelter.,594,1
+58f37899c02d0bb52f25368cecc352c5,19,plausible,The church*built*the homeless*a shelter.,526,2
+58f37899c02d0bb52f25368cecc352c5,19,plausible,The church*built*the homeless*a shelter.,974,3
+58f37899c02d0bb52f25368cecc352c5,19,plausible,The church*built*the homeless*a shelter.,1794,4
+daf6ee4395abb0c2ee84f42b55834d89,4,plausible,The grandmother*made*her granddaughter*a quilt.,841,1
+daf6ee4395abb0c2ee84f42b55834d89,4,plausible,The grandmother*made*her granddaughter*a quilt.,720,2
+daf6ee4395abb0c2ee84f42b55834d89,4,plausible,The grandmother*made*her granddaughter*a quilt.,703,3
+daf6ee4395abb0c2ee84f42b55834d89,4,plausible,The grandmother*made*her granddaughter*a quilt.,931,4
+daf6ee4395abb0c2ee84f42b55834d89,8,plausible,The father*bought*his son*a bicycle.,583,1
+daf6ee4395abb0c2ee84f42b55834d89,8,plausible,The father*bought*his son*a bicycle.,591,2
+daf6ee4395abb0c2ee84f42b55834d89,8,plausible,The father*bought*his son*a bicycle.,582,3
+daf6ee4395abb0c2ee84f42b55834d89,8,plausible,The father*bought*his son*a bicycle.,713,4
+daf6ee4395abb0c2ee84f42b55834d89,19,implausible,The church*built*a shelter*the homeless.,612,1
+daf6ee4395abb0c2ee84f42b55834d89,19,implausible,The church*built*a shelter*the homeless.,819,2
+daf6ee4395abb0c2ee84f42b55834d89,19,implausible,The church*built*a shelter*the homeless.,665,3
+daf6ee4395abb0c2ee84f42b55834d89,19,implausible,The church*built*a shelter*the homeless.,1816,4
+daf6ee4395abb0c2ee84f42b55834d89,12,plausible,The nurse*poured*the old man*some water.,676,1
+daf6ee4395abb0c2ee84f42b55834d89,12,plausible,The nurse*poured*the old man*some water.,603,2
+daf6ee4395abb0c2ee84f42b55834d89,12,plausible,The nurse*poured*the old man*some water.,1076,3
+daf6ee4395abb0c2ee84f42b55834d89,12,plausible,The nurse*poured*the old man*some water.,874,4
+daf6ee4395abb0c2ee84f42b55834d89,6,plausible,The secretary*ordered*the boss*some office supplies.,812,1
+daf6ee4395abb0c2ee84f42b55834d89,6,plausible,The secretary*ordered*the boss*some office supplies.,994,2
+daf6ee4395abb0c2ee84f42b55834d89,6,plausible,The secretary*ordered*the boss*some office supplies.,568,3
+daf6ee4395abb0c2ee84f42b55834d89,6,plausible,The secretary*ordered*the boss*some office supplies.,1874,4
+daf6ee4395abb0c2ee84f42b55834d89,17,implausible,The travel agent*reserved*a flight*the businessman.,719,1
+daf6ee4395abb0c2ee84f42b55834d89,17,implausible,The travel agent*reserved*a flight*the businessman.,720,2
+daf6ee4395abb0c2ee84f42b55834d89,17,implausible,The travel agent*reserved*a flight*the businessman.,648,3
+daf6ee4395abb0c2ee84f42b55834d89,17,implausible,The travel agent*reserved*a flight*the businessman.,1169,4
+daf6ee4395abb0c2ee84f42b55834d89,1,implausible,The cook*baked*a cake*Lucy.,549,1
+daf6ee4395abb0c2ee84f42b55834d89,1,implausible,The cook*baked*a cake*Lucy.,654,2
+daf6ee4395abb0c2ee84f42b55834d89,1,implausible,The cook*baked*a cake*Lucy.,610,3
+daf6ee4395abb0c2ee84f42b55834d89,1,implausible,The cook*baked*a cake*Lucy.,1196,4
+daf6ee4395abb0c2ee84f42b55834d89,5,implausible,The apprentice*fetched*a hammer*the carpenter.,798,1
+daf6ee4395abb0c2ee84f42b55834d89,5,implausible,The apprentice*fetched*a hammer*the carpenter.,669,2
+daf6ee4395abb0c2ee84f42b55834d89,5,implausible,The apprentice*fetched*a hammer*the carpenter.,730,3
+daf6ee4395abb0c2ee84f42b55834d89,5,implausible,The apprentice*fetched*a hammer*the carpenter.,951,4
+daf6ee4395abb0c2ee84f42b55834d89,10,plausible,The waitress*fixed*the customer*a sandwich.,657,1
+daf6ee4395abb0c2ee84f42b55834d89,10,plausible,The waitress*fixed*the customer*a sandwich.,917,2
+daf6ee4395abb0c2ee84f42b55834d89,10,plausible,The waitress*fixed*the customer*a sandwich.,594,3
+daf6ee4395abb0c2ee84f42b55834d89,16,plausible,The man*ordered*his girlfriend*some champagne.,531,1
+daf6ee4395abb0c2ee84f42b55834d89,16,plausible,The man*ordered*his girlfriend*some champagne.,599,2
+daf6ee4395abb0c2ee84f42b55834d89,16,plausible,The man*ordered*his girlfriend*some champagne.,697,3
+daf6ee4395abb0c2ee84f42b55834d89,16,plausible,The man*ordered*his girlfriend*some champagne.,1266,4
+daf6ee4395abb0c2ee84f42b55834d89,9,implausible,The charity*built*a house*the hurricane victim.,874,1
+daf6ee4395abb0c2ee84f42b55834d89,9,implausible,The charity*built*a house*the hurricane victim.,531,2
+daf6ee4395abb0c2ee84f42b55834d89,9,implausible,The charity*built*a house*the hurricane victim.,596,3
+daf6ee4395abb0c2ee84f42b55834d89,9,implausible,The charity*built*a house*the hurricane victim.,1548,4
+daf6ee4395abb0c2ee84f42b55834d89,2,plausible,The bartender*poured*the customer*a drink.,644,1
+daf6ee4395abb0c2ee84f42b55834d89,2,plausible,The bartender*poured*the customer*a drink.,760,2
+daf6ee4395abb0c2ee84f42b55834d89,2,plausible,The bartender*poured*the customer*a drink.,805,3
+daf6ee4395abb0c2ee84f42b55834d89,2,plausible,The bartender*poured*the customer*a drink.,848,4
+daf6ee4395abb0c2ee84f42b55834d89,14,plausible,The seamstress*made*her client*a dress.,539,1
+daf6ee4395abb0c2ee84f42b55834d89,14,plausible,The seamstress*made*her client*a dress.,524,2
+daf6ee4395abb0c2ee84f42b55834d89,14,plausible,The seamstress*made*her client*a dress.,568,3
+daf6ee4395abb0c2ee84f42b55834d89,14,plausible,The seamstress*made*her client*a dress.,669,4
+daf6ee4395abb0c2ee84f42b55834d89,11,implausible,The grandmother*baked*some cookies*the grandson.,633,1
+daf6ee4395abb0c2ee84f42b55834d89,11,implausible,The grandmother*baked*some cookies*the grandson.,564,2
+daf6ee4395abb0c2ee84f42b55834d89,11,implausible,The grandmother*baked*some cookies*the grandson.,665,3
+daf6ee4395abb0c2ee84f42b55834d89,11,implausible,The grandmother*baked*some cookies*the grandson.,1161,4
+daf6ee4395abb0c2ee84f42b55834d89,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,697,1
+daf6ee4395abb0c2ee84f42b55834d89,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,741,2
+daf6ee4395abb0c2ee84f42b55834d89,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1211,3
+daf6ee4395abb0c2ee84f42b55834d89,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1238,1
+daf6ee4395abb0c2ee84f42b55834d89,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1314,2
+daf6ee4395abb0c2ee84f42b55834d89,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,637,3
+daf6ee4395abb0c2ee84f42b55834d89,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1487,4
+daf6ee4395abb0c2ee84f42b55834d89,20,plausible,The babysitter*fixed*the child*some lunch.,653,1
+daf6ee4395abb0c2ee84f42b55834d89,20,plausible,The babysitter*fixed*the child*some lunch.,637,2
+daf6ee4395abb0c2ee84f42b55834d89,20,plausible,The babysitter*fixed*the child*some lunch.,751,3
+daf6ee4395abb0c2ee84f42b55834d89,20,plausible,The babysitter*fixed*the child*some lunch.,982,4
+daf6ee4395abb0c2ee84f42b55834d89,3,implausible,The woman*saved*a seat*her husband.,863,1
+daf6ee4395abb0c2ee84f42b55834d89,3,implausible,The woman*saved*a seat*her husband.,886,2
+daf6ee4395abb0c2ee84f42b55834d89,3,implausible,The woman*saved*a seat*her husband.,906,3
+daf6ee4395abb0c2ee84f42b55834d89,3,implausible,The woman*saved*a seat*her husband.,1237,4
+daf6ee4395abb0c2ee84f42b55834d89,13,implausible,The receptionist*saved*some cake*her co-worker.,562,1
+daf6ee4395abb0c2ee84f42b55834d89,13,implausible,The receptionist*saved*some cake*her co-worker.,614,2
+daf6ee4395abb0c2ee84f42b55834d89,13,implausible,The receptionist*saved*some cake*her co-worker.,576,3
+daf6ee4395abb0c2ee84f42b55834d89,13,implausible,The receptionist*saved*some cake*her co-worker.,758,4
+daf6ee4395abb0c2ee84f42b55834d89,7,implausible,The wife*reserved*a table*her husband.,652,1
+daf6ee4395abb0c2ee84f42b55834d89,7,implausible,The wife*reserved*a table*her husband.,685,2
+daf6ee4395abb0c2ee84f42b55834d89,7,implausible,The wife*reserved*a table*her husband.,843,3
+daf6ee4395abb0c2ee84f42b55834d89,7,implausible,The wife*reserved*a table*her husband.,1349,4
+5eb117d281151db2b76523778152f81d,3,plausible,The woman*saved*her husband*a seat.,1349,1
+5eb117d281151db2b76523778152f81d,3,plausible,The woman*saved*her husband*a seat.,1278,2
+5eb117d281151db2b76523778152f81d,3,plausible,The woman*saved*her husband*a seat.,1052,3
+5eb117d281151db2b76523778152f81d,3,plausible,The woman*saved*her husband*a seat.,1488,4
+5eb117d281151db2b76523778152f81d,2,implausible,The bartender*poured*a drink*the customer.,1241,1
+5eb117d281151db2b76523778152f81d,2,implausible,The bartender*poured*a drink*the customer.,981,2
+5eb117d281151db2b76523778152f81d,2,implausible,The bartender*poured*a drink*the customer.,876,3
+5eb117d281151db2b76523778152f81d,20,implausible,The babysitter*fixed*some lunch*the child.,948,1
+5eb117d281151db2b76523778152f81d,20,implausible,The babysitter*fixed*some lunch*the child.,901,2
+5eb117d281151db2b76523778152f81d,20,implausible,The babysitter*fixed*some lunch*the child.,884,3
+5eb117d281151db2b76523778152f81d,20,implausible,The babysitter*fixed*some lunch*the child.,1488,4
+5eb117d281151db2b76523778152f81d,10,implausible,The waitress*fixed*a sandwich*the customer.,883,1
+5eb117d281151db2b76523778152f81d,10,implausible,The waitress*fixed*a sandwich*the customer.,905,2
+5eb117d281151db2b76523778152f81d,10,implausible,The waitress*fixed*a sandwich*the customer.,1316,3
+5eb117d281151db2b76523778152f81d,10,implausible,The waitress*fixed*a sandwich*the customer.,1040,4
+5eb117d281151db2b76523778152f81d,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1013,1
+5eb117d281151db2b76523778152f81d,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1002,2
+5eb117d281151db2b76523778152f81d,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,896,3
+5eb117d281151db2b76523778152f81d,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1505,1
+5eb117d281151db2b76523778152f81d,5,plausible,The apprentice*fetched*the carpenter*a hammer.,936,2
+5eb117d281151db2b76523778152f81d,5,plausible,The apprentice*fetched*the carpenter*a hammer.,829,3
+5eb117d281151db2b76523778152f81d,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1485,4
+5eb117d281151db2b76523778152f81d,19,plausible,The church*built*the homeless*a shelter.,761,1
+5eb117d281151db2b76523778152f81d,19,plausible,The church*built*the homeless*a shelter.,833,2
+5eb117d281151db2b76523778152f81d,19,plausible,The church*built*the homeless*a shelter.,920,3
+5eb117d281151db2b76523778152f81d,17,plausible,The travel agent*reserved*the businessman*a flight.,1055,1
+5eb117d281151db2b76523778152f81d,17,plausible,The travel agent*reserved*the businessman*a flight.,1027,2
+5eb117d281151db2b76523778152f81d,17,plausible,The travel agent*reserved*the businessman*a flight.,842,3
+5eb117d281151db2b76523778152f81d,17,plausible,The travel agent*reserved*the businessman*a flight.,1298,4
+5eb117d281151db2b76523778152f81d,1,plausible,The cook*baked*Lucy*a cake.,845,1
+5eb117d281151db2b76523778152f81d,1,plausible,The cook*baked*Lucy*a cake.,806,2
+5eb117d281151db2b76523778152f81d,1,plausible,The cook*baked*Lucy*a cake.,722,3
+5eb117d281151db2b76523778152f81d,6,implausible,The secretary*ordered*some office supplies*the boss.,797,1
+5eb117d281151db2b76523778152f81d,6,implausible,The secretary*ordered*some office supplies*the boss.,718,2
+5eb117d281151db2b76523778152f81d,6,implausible,The secretary*ordered*some office supplies*the boss.,1582,3
+5eb117d281151db2b76523778152f81d,6,implausible,The secretary*ordered*some office supplies*the boss.,1040,4
+5eb117d281151db2b76523778152f81d,16,implausible,The man*ordered*some champagne*his girlfriend.,749,1
+5eb117d281151db2b76523778152f81d,16,implausible,The man*ordered*some champagne*his girlfriend.,792,2
+5eb117d281151db2b76523778152f81d,16,implausible,The man*ordered*some champagne*his girlfriend.,767,3
+5eb117d281151db2b76523778152f81d,16,implausible,The man*ordered*some champagne*his girlfriend.,1441,4
+5eb117d281151db2b76523778152f81d,12,implausible,The nurse*poured*some water*the old man.,781,1
+5eb117d281151db2b76523778152f81d,12,implausible,The nurse*poured*some water*the old man.,820,2
+5eb117d281151db2b76523778152f81d,12,implausible,The nurse*poured*some water*the old man.,747,3
+5eb117d281151db2b76523778152f81d,12,implausible,The nurse*poured*some water*the old man.,1053,4
+5eb117d281151db2b76523778152f81d,9,plausible,The charity*built*the hurricane victim*a house.,826,1
+5eb117d281151db2b76523778152f81d,9,plausible,The charity*built*the hurricane victim*a house.,679,2
+5eb117d281151db2b76523778152f81d,9,plausible,The charity*built*the hurricane victim*a house.,1289,3
+5eb117d281151db2b76523778152f81d,14,implausible,The seamstress*made*a dress*her client.,1722,1
+5eb117d281151db2b76523778152f81d,14,implausible,The seamstress*made*a dress*her client.,589,2
+5eb117d281151db2b76523778152f81d,14,implausible,The seamstress*made*a dress*her client.,629,3
+5eb117d281151db2b76523778152f81d,14,implausible,The seamstress*made*a dress*her client.,1106,4
+5eb117d281151db2b76523778152f81d,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,750,1
+5eb117d281151db2b76523778152f81d,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,962,2
+5eb117d281151db2b76523778152f81d,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1167,3
+5eb117d281151db2b76523778152f81d,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1021,4
+5eb117d281151db2b76523778152f81d,11,plausible,The grandmother*baked*the grandson*some cookies.,792,1
+5eb117d281151db2b76523778152f81d,11,plausible,The grandmother*baked*the grandson*some cookies.,686,2
+5eb117d281151db2b76523778152f81d,11,plausible,The grandmother*baked*the grandson*some cookies.,711,3
+5eb117d281151db2b76523778152f81d,11,plausible,The grandmother*baked*the grandson*some cookies.,1640,4
+5eb117d281151db2b76523778152f81d,13,plausible,The receptionist*saved*her co-worker*some cake.,628,1
+5eb117d281151db2b76523778152f81d,13,plausible,The receptionist*saved*her co-worker*some cake.,678,2
+5eb117d281151db2b76523778152f81d,13,plausible,The receptionist*saved*her co-worker*some cake.,699,3
+5eb117d281151db2b76523778152f81d,13,plausible,The receptionist*saved*her co-worker*some cake.,996,4
+5eb117d281151db2b76523778152f81d,8,implausible,The father*bought*a bicycle*his son.,1050,1
+5eb117d281151db2b76523778152f81d,8,implausible,The father*bought*a bicycle*his son.,824,2
+5eb117d281151db2b76523778152f81d,8,implausible,The father*bought*a bicycle*his son.,668,3
+5eb117d281151db2b76523778152f81d,8,implausible,The father*bought*a bicycle*his son.,788,4
+5eb117d281151db2b76523778152f81d,4,implausible,The grandmother*made*a quilt*her granddaughter.,554,1
+5eb117d281151db2b76523778152f81d,4,implausible,The grandmother*made*a quilt*her granddaughter.,841,2
+5eb117d281151db2b76523778152f81d,4,implausible,The grandmother*made*a quilt*her granddaughter.,739,3
+5eb117d281151db2b76523778152f81d,4,implausible,The grandmother*made*a quilt*her granddaughter.,1505,4
+5eb117d281151db2b76523778152f81d,7,plausible,The wife*reserved*her husband*a table.,812,1
+5eb117d281151db2b76523778152f81d,7,plausible,The wife*reserved*her husband*a table.,682,2
+5eb117d281151db2b76523778152f81d,7,plausible,The wife*reserved*her husband*a table.,876,3
+5eb117d281151db2b76523778152f81d,7,plausible,The wife*reserved*her husband*a table.,1414,4
+f1c50c4a21dd8490770f989814f3cd76,14,plausible,The seamstress*made*her client*a dress.,1312,3
+f1c50c4a21dd8490770f989814f3cd76,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1318,2
+f1c50c4a21dd8490770f989814f3cd76,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1105,3
+f1c50c4a21dd8490770f989814f3cd76,2,plausible,The bartender*poured*the customer*a drink.,835,1
+f1c50c4a21dd8490770f989814f3cd76,2,plausible,The bartender*poured*the customer*a drink.,882,2
+f1c50c4a21dd8490770f989814f3cd76,2,plausible,The bartender*poured*the customer*a drink.,681,3
+f1c50c4a21dd8490770f989814f3cd76,2,plausible,The bartender*poured*the customer*a drink.,922,4
+f1c50c4a21dd8490770f989814f3cd76,10,plausible,The waitress*fixed*the customer*a sandwich.,808,1
+f1c50c4a21dd8490770f989814f3cd76,10,plausible,The waitress*fixed*the customer*a sandwich.,661,2
+f1c50c4a21dd8490770f989814f3cd76,10,plausible,The waitress*fixed*the customer*a sandwich.,659,3
+f1c50c4a21dd8490770f989814f3cd76,4,plausible,The grandmother*made*her granddaughter*a quilt.,841,1
+f1c50c4a21dd8490770f989814f3cd76,4,plausible,The grandmother*made*her granddaughter*a quilt.,491,2
+f1c50c4a21dd8490770f989814f3cd76,4,plausible,The grandmother*made*her granddaughter*a quilt.,953,3
+f1c50c4a21dd8490770f989814f3cd76,1,implausible,The cook*baked*a cake*Lucy.,750,1
+f1c50c4a21dd8490770f989814f3cd76,1,implausible,The cook*baked*a cake*Lucy.,653,2
+f1c50c4a21dd8490770f989814f3cd76,1,implausible,The cook*baked*a cake*Lucy.,1201,3
+f1c50c4a21dd8490770f989814f3cd76,19,implausible,The church*built*a shelter*the homeless.,624,1
+f1c50c4a21dd8490770f989814f3cd76,19,implausible,The church*built*a shelter*the homeless.,617,2
+f1c50c4a21dd8490770f989814f3cd76,19,implausible,The church*built*a shelter*the homeless.,907,3
+f1c50c4a21dd8490770f989814f3cd76,13,implausible,The receptionist*saved*some cake*her co-worker.,778,1
+f1c50c4a21dd8490770f989814f3cd76,13,implausible,The receptionist*saved*some cake*her co-worker.,701,2
+f1c50c4a21dd8490770f989814f3cd76,13,implausible,The receptionist*saved*some cake*her co-worker.,1189,3
+f1c50c4a21dd8490770f989814f3cd76,20,plausible,The babysitter*fixed*the child*some lunch.,602,1
+f1c50c4a21dd8490770f989814f3cd76,20,plausible,The babysitter*fixed*the child*some lunch.,500,2
+f1c50c4a21dd8490770f989814f3cd76,20,plausible,The babysitter*fixed*the child*some lunch.,690,3
+f1c50c4a21dd8490770f989814f3cd76,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,707,1
+f1c50c4a21dd8490770f989814f3cd76,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1312,2
+f1c50c4a21dd8490770f989814f3cd76,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1261,3
+f1c50c4a21dd8490770f989814f3cd76,3,implausible,The woman*saved*a seat*her husband.,546,1
+f1c50c4a21dd8490770f989814f3cd76,3,implausible,The woman*saved*a seat*her husband.,560,2
+f1c50c4a21dd8490770f989814f3cd76,3,implausible,The woman*saved*a seat*her husband.,938,3
+f1c50c4a21dd8490770f989814f3cd76,3,implausible,The woman*saved*a seat*her husband.,1281,4
+f1c50c4a21dd8490770f989814f3cd76,16,plausible,The man*ordered*his girlfriend*some champagne.,530,1
+f1c50c4a21dd8490770f989814f3cd76,16,plausible,The man*ordered*his girlfriend*some champagne.,667,2
+f1c50c4a21dd8490770f989814f3cd76,16,plausible,The man*ordered*his girlfriend*some champagne.,1132,4
+f1c50c4a21dd8490770f989814f3cd76,8,plausible,The father*bought*his son*a bicycle.,540,1
+f1c50c4a21dd8490770f989814f3cd76,8,plausible,The father*bought*his son*a bicycle.,668,2
+f1c50c4a21dd8490770f989814f3cd76,8,plausible,The father*bought*his son*a bicycle.,923,3
+f1c50c4a21dd8490770f989814f3cd76,8,plausible,The father*bought*his son*a bicycle.,762,4
+f1c50c4a21dd8490770f989814f3cd76,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1691,1
+f1c50c4a21dd8490770f989814f3cd76,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1504,2
+f1c50c4a21dd8490770f989814f3cd76,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,850,3
+f1c50c4a21dd8490770f989814f3cd76,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1417,4
+f1c50c4a21dd8490770f989814f3cd76,9,implausible,The charity*built*a house*the hurricane victim.,675,1
+f1c50c4a21dd8490770f989814f3cd76,9,implausible,The charity*built*a house*the hurricane victim.,598,2
+f1c50c4a21dd8490770f989814f3cd76,9,implausible,The charity*built*a house*the hurricane victim.,553,3
+f1c50c4a21dd8490770f989814f3cd76,9,implausible,The charity*built*a house*the hurricane victim.,1882,4
+f1c50c4a21dd8490770f989814f3cd76,11,implausible,The grandmother*baked*some cookies*the grandson.,566,1
+f1c50c4a21dd8490770f989814f3cd76,11,implausible,The grandmother*baked*some cookies*the grandson.,543,2
+f1c50c4a21dd8490770f989814f3cd76,11,implausible,The grandmother*baked*some cookies*the grandson.,571,3
+f1c50c4a21dd8490770f989814f3cd76,11,implausible,The grandmother*baked*some cookies*the grandson.,1207,4
+f1c50c4a21dd8490770f989814f3cd76,6,plausible,The secretary*ordered*the boss*some office supplies.,549,1
+f1c50c4a21dd8490770f989814f3cd76,6,plausible,The secretary*ordered*the boss*some office supplies.,1438,2
+f1c50c4a21dd8490770f989814f3cd76,6,plausible,The secretary*ordered*the boss*some office supplies.,711,3
+f1c50c4a21dd8490770f989814f3cd76,6,plausible,The secretary*ordered*the boss*some office supplies.,1679,4
+f1c50c4a21dd8490770f989814f3cd76,7,implausible,The wife*reserved*a table*her husband.,460,1
+f1c50c4a21dd8490770f989814f3cd76,7,implausible,The wife*reserved*a table*her husband.,521,2
+f1c50c4a21dd8490770f989814f3cd76,7,implausible,The wife*reserved*a table*her husband.,1229,3
+f1c50c4a21dd8490770f989814f3cd76,7,implausible,The wife*reserved*a table*her husband.,961,4
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,1182,1
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,482,2
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,603,3
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,1182,1
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,482,2
+f1c50c4a21dd8490770f989814f3cd76,17,implausible,The travel agent*reserved*a flight*the businessman.,603,3
+f1c50c4a21dd8490770f989814f3cd76,12,plausible,The nurse*poured*the old man*some water.,501,1
+f1c50c4a21dd8490770f989814f3cd76,12,plausible,The nurse*poured*the old man*some water.,603,2
+f1c50c4a21dd8490770f989814f3cd76,12,plausible,The nurse*poured*the old man*some water.,701,3
+f1c50c4a21dd8490770f989814f3cd76,12,plausible,The nurse*poured*the old man*some water.,1140,4
+d2297ef62fb166b23254c294ca60cbab,17,plausible,The travel agent*reserved*the businessman*a flight.,1539,1
+d2297ef62fb166b23254c294ca60cbab,17,plausible,The travel agent*reserved*the businessman*a flight.,1194,2
+d2297ef62fb166b23254c294ca60cbab,17,plausible,The travel agent*reserved*the businessman*a flight.,1157,3
+d2297ef62fb166b23254c294ca60cbab,17,plausible,The travel agent*reserved*the businessman*a flight.,1443,4
+d2297ef62fb166b23254c294ca60cbab,11,plausible,The grandmother*baked*the grandson*some cookies.,1548,1
+d2297ef62fb166b23254c294ca60cbab,11,plausible,The grandmother*baked*the grandson*some cookies.,1044,2
+d2297ef62fb166b23254c294ca60cbab,11,plausible,The grandmother*baked*the grandson*some cookies.,1166,3
+d2297ef62fb166b23254c294ca60cbab,11,plausible,The grandmother*baked*the grandson*some cookies.,1950,4
+d2297ef62fb166b23254c294ca60cbab,2,implausible,The bartender*poured*a drink*the customer.,992,1
+d2297ef62fb166b23254c294ca60cbab,2,implausible,The bartender*poured*a drink*the customer.,952,2
+d2297ef62fb166b23254c294ca60cbab,2,implausible,The bartender*poured*a drink*the customer.,927,3
+d2297ef62fb166b23254c294ca60cbab,2,implausible,The bartender*poured*a drink*the customer.,1364,4
+d2297ef62fb166b23254c294ca60cbab,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1093,1
+d2297ef62fb166b23254c294ca60cbab,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,877,2
+d2297ef62fb166b23254c294ca60cbab,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,853,3
+d2297ef62fb166b23254c294ca60cbab,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1046,4
+d2297ef62fb166b23254c294ca60cbab,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,622,1
+d2297ef62fb166b23254c294ca60cbab,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,545,2
+d2297ef62fb166b23254c294ca60cbab,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,847,3
+d2297ef62fb166b23254c294ca60cbab,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1329,4
+d2297ef62fb166b23254c294ca60cbab,14,implausible,The seamstress*made*a dress*her client.,1373,1
+d2297ef62fb166b23254c294ca60cbab,14,implausible,The seamstress*made*a dress*her client.,906,2
+d2297ef62fb166b23254c294ca60cbab,14,implausible,The seamstress*made*a dress*her client.,747,3
+d2297ef62fb166b23254c294ca60cbab,14,implausible,The seamstress*made*a dress*her client.,1448,4
+d2297ef62fb166b23254c294ca60cbab,7,plausible,The wife*reserved*her husband*a table.,920,1
+d2297ef62fb166b23254c294ca60cbab,7,plausible,The wife*reserved*her husband*a table.,897,2
+d2297ef62fb166b23254c294ca60cbab,7,plausible,The wife*reserved*her husband*a table.,737,3
+d2297ef62fb166b23254c294ca60cbab,7,plausible,The wife*reserved*her husband*a table.,1976,4
+d2297ef62fb166b23254c294ca60cbab,6,implausible,The secretary*ordered*some office supplies*the boss.,765,1
+d2297ef62fb166b23254c294ca60cbab,6,implausible,The secretary*ordered*some office supplies*the boss.,598,2
+d2297ef62fb166b23254c294ca60cbab,6,implausible,The secretary*ordered*some office supplies*the boss.,916,3
+d2297ef62fb166b23254c294ca60cbab,1,plausible,The cook*baked*Lucy*a cake.,854,1
+d2297ef62fb166b23254c294ca60cbab,1,plausible,The cook*baked*Lucy*a cake.,638,2
+d2297ef62fb166b23254c294ca60cbab,1,plausible,The cook*baked*Lucy*a cake.,563,3
+d2297ef62fb166b23254c294ca60cbab,1,plausible,The cook*baked*Lucy*a cake.,855,4
+d2297ef62fb166b23254c294ca60cbab,20,implausible,The babysitter*fixed*some lunch*the child.,871,1
+d2297ef62fb166b23254c294ca60cbab,20,implausible,The babysitter*fixed*some lunch*the child.,713,2
+d2297ef62fb166b23254c294ca60cbab,20,implausible,The babysitter*fixed*some lunch*the child.,1150,3
+d2297ef62fb166b23254c294ca60cbab,20,implausible,The babysitter*fixed*some lunch*the child.,958,4
+d2297ef62fb166b23254c294ca60cbab,4,implausible,The grandmother*made*a quilt*her granddaughter.,841,1
+d2297ef62fb166b23254c294ca60cbab,4,implausible,The grandmother*made*a quilt*her granddaughter.,988,2
+d2297ef62fb166b23254c294ca60cbab,4,implausible,The grandmother*made*a quilt*her granddaughter.,1563,3
+d2297ef62fb166b23254c294ca60cbab,16,implausible,The man*ordered*some champagne*his girlfriend.,751,1
+d2297ef62fb166b23254c294ca60cbab,16,implausible,The man*ordered*some champagne*his girlfriend.,828,2
+d2297ef62fb166b23254c294ca60cbab,16,implausible,The man*ordered*some champagne*his girlfriend.,751,3
+d2297ef62fb166b23254c294ca60cbab,16,implausible,The man*ordered*some champagne*his girlfriend.,1067,4
+d2297ef62fb166b23254c294ca60cbab,9,plausible,The charity*built*the hurricane victim*a house.,1527,1
+d2297ef62fb166b23254c294ca60cbab,9,plausible,The charity*built*the hurricane victim*a house.,1332,2
+d2297ef62fb166b23254c294ca60cbab,9,plausible,The charity*built*the hurricane victim*a house.,1283,4
+d2297ef62fb166b23254c294ca60cbab,8,implausible,The father*bought*a bicycle*his son.,725,1
+d2297ef62fb166b23254c294ca60cbab,8,implausible,The father*bought*a bicycle*his son.,840,2
+d2297ef62fb166b23254c294ca60cbab,8,implausible,The father*bought*a bicycle*his son.,894,3
+d2297ef62fb166b23254c294ca60cbab,8,implausible,The father*bought*a bicycle*his son.,729,4
+d2297ef62fb166b23254c294ca60cbab,13,plausible,The receptionist*saved*her co-worker*some cake.,772,1
+d2297ef62fb166b23254c294ca60cbab,13,plausible,The receptionist*saved*her co-worker*some cake.,732,2
+d2297ef62fb166b23254c294ca60cbab,13,plausible,The receptionist*saved*her co-worker*some cake.,717,3
+d2297ef62fb166b23254c294ca60cbab,13,plausible,The receptionist*saved*her co-worker*some cake.,966,4
+d2297ef62fb166b23254c294ca60cbab,10,implausible,The waitress*fixed*a sandwich*the customer.,615,1
+d2297ef62fb166b23254c294ca60cbab,10,implausible,The waitress*fixed*a sandwich*the customer.,622,2
+d2297ef62fb166b23254c294ca60cbab,10,implausible,The waitress*fixed*a sandwich*the customer.,785,3
+d2297ef62fb166b23254c294ca60cbab,10,implausible,The waitress*fixed*a sandwich*the customer.,854,4
+d2297ef62fb166b23254c294ca60cbab,12,implausible,The nurse*poured*some water*the old man.,611,1
+d2297ef62fb166b23254c294ca60cbab,12,implausible,The nurse*poured*some water*the old man.,617,2
+d2297ef62fb166b23254c294ca60cbab,12,implausible,The nurse*poured*some water*the old man.,696,3
+d2297ef62fb166b23254c294ca60cbab,12,implausible,The nurse*poured*some water*the old man.,968,4
+d2297ef62fb166b23254c294ca60cbab,3,plausible,The woman*saved*her husband*a seat.,655,1
+d2297ef62fb166b23254c294ca60cbab,3,plausible,The woman*saved*her husband*a seat.,608,2
+d2297ef62fb166b23254c294ca60cbab,3,plausible,The woman*saved*her husband*a seat.,691,3
+d2297ef62fb166b23254c294ca60cbab,3,plausible,The woman*saved*her husband*a seat.,1309,4
+d2297ef62fb166b23254c294ca60cbab,5,plausible,The apprentice*fetched*the carpenter*a hammer.,856,1
+d2297ef62fb166b23254c294ca60cbab,5,plausible,The apprentice*fetched*the carpenter*a hammer.,723,2
+d2297ef62fb166b23254c294ca60cbab,5,plausible,The apprentice*fetched*the carpenter*a hammer.,771,3
+d2297ef62fb166b23254c294ca60cbab,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1057,4
+d2297ef62fb166b23254c294ca60cbab,19,plausible,The church*built*the homeless*a shelter.,711,1
+d2297ef62fb166b23254c294ca60cbab,19,plausible,The church*built*the homeless*a shelter.,872,2
+d2297ef62fb166b23254c294ca60cbab,19,plausible,The church*built*the homeless*a shelter.,1365,3
+880f21222ca0914d0b9f29de0e9cf92a,3,implausible,The woman*saved*a seat*her husband.,1877,3
+880f21222ca0914d0b9f29de0e9cf92a,3,implausible,The woman*saved*a seat*her husband.,1865,2
+880f21222ca0914d0b9f29de0e9cf92a,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1633,3
+880f21222ca0914d0b9f29de0e9cf92a,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1581,2
+880f21222ca0914d0b9f29de0e9cf92a,11,implausible,The grandmother*baked*some cookies*the grandson.,1443,3
+880f21222ca0914d0b9f29de0e9cf92a,11,implausible,The grandmother*baked*some cookies*the grandson.,1025,2
+880f21222ca0914d0b9f29de0e9cf92a,11,implausible,The grandmother*baked*some cookies*the grandson.,1323,1
+880f21222ca0914d0b9f29de0e9cf92a,8,plausible,The father*bought*his son*a bicycle.,1832,4
+880f21222ca0914d0b9f29de0e9cf92a,8,plausible,The father*bought*his son*a bicycle.,736,3
+880f21222ca0914d0b9f29de0e9cf92a,8,plausible,The father*bought*his son*a bicycle.,522,2
+880f21222ca0914d0b9f29de0e9cf92a,8,plausible,The father*bought*his son*a bicycle.,780,1
+880f21222ca0914d0b9f29de0e9cf92a,6,plausible,The secretary*ordered*the boss*some office supplies.,732,3
+880f21222ca0914d0b9f29de0e9cf92a,6,plausible,The secretary*ordered*the boss*some office supplies.,671,2
+880f21222ca0914d0b9f29de0e9cf92a,6,plausible,The secretary*ordered*the boss*some office supplies.,1288,1
+880f21222ca0914d0b9f29de0e9cf92a,12,plausible,The nurse*poured*the old man*some water.,1397,4
+880f21222ca0914d0b9f29de0e9cf92a,12,plausible,The nurse*poured*the old man*some water.,992,3
+880f21222ca0914d0b9f29de0e9cf92a,12,plausible,The nurse*poured*the old man*some water.,915,2
+880f21222ca0914d0b9f29de0e9cf92a,12,plausible,The nurse*poured*the old man*some water.,1201,1
+880f21222ca0914d0b9f29de0e9cf92a,10,plausible,The waitress*fixed*the customer*a sandwich.,728,3
+880f21222ca0914d0b9f29de0e9cf92a,10,plausible,The waitress*fixed*the customer*a sandwich.,546,2
+880f21222ca0914d0b9f29de0e9cf92a,10,plausible,The waitress*fixed*the customer*a sandwich.,820,1
+880f21222ca0914d0b9f29de0e9cf92a,13,implausible,The receptionist*saved*some cake*her co-worker.,1193,4
+880f21222ca0914d0b9f29de0e9cf92a,13,implausible,The receptionist*saved*some cake*her co-worker.,571,3
+880f21222ca0914d0b9f29de0e9cf92a,13,implausible,The receptionist*saved*some cake*her co-worker.,546,2
+880f21222ca0914d0b9f29de0e9cf92a,13,implausible,The receptionist*saved*some cake*her co-worker.,1180,1
+880f21222ca0914d0b9f29de0e9cf92a,14,plausible,The seamstress*made*her client*a dress.,1223,4
+880f21222ca0914d0b9f29de0e9cf92a,14,plausible,The seamstress*made*her client*a dress.,615,3
+880f21222ca0914d0b9f29de0e9cf92a,14,plausible,The seamstress*made*her client*a dress.,859,2
+880f21222ca0914d0b9f29de0e9cf92a,4,plausible,The grandmother*made*her granddaughter*a quilt.,910,4
+880f21222ca0914d0b9f29de0e9cf92a,4,plausible,The grandmother*made*her granddaughter*a quilt.,532,3
+880f21222ca0914d0b9f29de0e9cf92a,4,plausible,The grandmother*made*her granddaughter*a quilt.,565,2
+880f21222ca0914d0b9f29de0e9cf92a,4,plausible,The grandmother*made*her granddaughter*a quilt.,659,1
+880f21222ca0914d0b9f29de0e9cf92a,2,plausible,The bartender*poured*the customer*a drink.,873,3
+880f21222ca0914d0b9f29de0e9cf92a,2,plausible,The bartender*poured*the customer*a drink.,596,2
+880f21222ca0914d0b9f29de0e9cf92a,2,plausible,The bartender*poured*the customer*a drink.,836,1
+880f21222ca0914d0b9f29de0e9cf92a,7,implausible,The wife*reserved*a table*her husband.,816,4
+880f21222ca0914d0b9f29de0e9cf92a,7,implausible,The wife*reserved*a table*her husband.,503,3
+880f21222ca0914d0b9f29de0e9cf92a,7,implausible,The wife*reserved*a table*her husband.,574,2
+880f21222ca0914d0b9f29de0e9cf92a,7,implausible,The wife*reserved*a table*her husband.,541,1
+880f21222ca0914d0b9f29de0e9cf92a,9,implausible,The charity*built*a house*the hurricane victim.,944,4
+880f21222ca0914d0b9f29de0e9cf92a,9,implausible,The charity*built*a house*the hurricane victim.,501,3
+880f21222ca0914d0b9f29de0e9cf92a,9,implausible,The charity*built*a house*the hurricane victim.,1260,2
+880f21222ca0914d0b9f29de0e9cf92a,9,implausible,The charity*built*a house*the hurricane victim.,677,1
+880f21222ca0914d0b9f29de0e9cf92a,17,implausible,The travel agent*reserved*a flight*the businessman.,892,4
+880f21222ca0914d0b9f29de0e9cf92a,17,implausible,The travel agent*reserved*a flight*the businessman.,508,3
+880f21222ca0914d0b9f29de0e9cf92a,17,implausible,The travel agent*reserved*a flight*the businessman.,791,2
+880f21222ca0914d0b9f29de0e9cf92a,17,implausible,The travel agent*reserved*a flight*the businessman.,1065,1
+880f21222ca0914d0b9f29de0e9cf92a,19,implausible,The church*built*a shelter*the homeless.,667,4
+880f21222ca0914d0b9f29de0e9cf92a,19,implausible,The church*built*a shelter*the homeless.,476,3
+880f21222ca0914d0b9f29de0e9cf92a,19,implausible,The church*built*a shelter*the homeless.,608,2
+880f21222ca0914d0b9f29de0e9cf92a,19,implausible,The church*built*a shelter*the homeless.,737,1
+880f21222ca0914d0b9f29de0e9cf92a,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,849,4
+880f21222ca0914d0b9f29de0e9cf92a,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1141,3
+880f21222ca0914d0b9f29de0e9cf92a,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,480,2
+880f21222ca0914d0b9f29de0e9cf92a,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,990,1
+880f21222ca0914d0b9f29de0e9cf92a,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1317,4
+880f21222ca0914d0b9f29de0e9cf92a,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,720,3
+880f21222ca0914d0b9f29de0e9cf92a,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,754,2
+880f21222ca0914d0b9f29de0e9cf92a,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,860,1
+880f21222ca0914d0b9f29de0e9cf92a,16,plausible,The man*ordered*his girlfriend*some champagne.,1043,4
+880f21222ca0914d0b9f29de0e9cf92a,16,plausible,The man*ordered*his girlfriend*some champagne.,702,3
+880f21222ca0914d0b9f29de0e9cf92a,16,plausible,The man*ordered*his girlfriend*some champagne.,530,2
+880f21222ca0914d0b9f29de0e9cf92a,16,plausible,The man*ordered*his girlfriend*some champagne.,543,1
+880f21222ca0914d0b9f29de0e9cf92a,1,implausible,The cook*baked*a cake*Lucy.,710,4
+880f21222ca0914d0b9f29de0e9cf92a,1,implausible,The cook*baked*a cake*Lucy.,445,3
+880f21222ca0914d0b9f29de0e9cf92a,1,implausible,The cook*baked*a cake*Lucy.,415,2
+880f21222ca0914d0b9f29de0e9cf92a,1,implausible,The cook*baked*a cake*Lucy.,511,1
+880f21222ca0914d0b9f29de0e9cf92a,20,plausible,The babysitter*fixed*the child*some lunch.,1276,4
+880f21222ca0914d0b9f29de0e9cf92a,20,plausible,The babysitter*fixed*the child*some lunch.,690,3
+880f21222ca0914d0b9f29de0e9cf92a,20,plausible,The babysitter*fixed*the child*some lunch.,924,2
+880f21222ca0914d0b9f29de0e9cf92a,20,plausible,The babysitter*fixed*the child*some lunch.,663,1
+e497d3dd10cf2812b4b80671cff3e665,13,plausible,The receptionist*saved*her co-worker*some cake.,718,1
+e497d3dd10cf2812b4b80671cff3e665,13,plausible,The receptionist*saved*her co-worker*some cake.,419,2
+e497d3dd10cf2812b4b80671cff3e665,13,plausible,The receptionist*saved*her co-worker*some cake.,761,3
+e497d3dd10cf2812b4b80671cff3e665,13,plausible,The receptionist*saved*her co-worker*some cake.,1324,4
+e497d3dd10cf2812b4b80671cff3e665,8,implausible,The father*bought*a bicycle*his son.,436,1
+e497d3dd10cf2812b4b80671cff3e665,8,implausible,The father*bought*a bicycle*his son.,706,2
+e497d3dd10cf2812b4b80671cff3e665,8,implausible,The father*bought*a bicycle*his son.,548,3
+e497d3dd10cf2812b4b80671cff3e665,8,implausible,The father*bought*a bicycle*his son.,1276,4
+e497d3dd10cf2812b4b80671cff3e665,3,plausible,The woman*saved*her husband*a seat.,371,1
+e497d3dd10cf2812b4b80671cff3e665,3,plausible,The woman*saved*her husband*a seat.,420,2
+e497d3dd10cf2812b4b80671cff3e665,3,plausible,The woman*saved*her husband*a seat.,361,3
+e497d3dd10cf2812b4b80671cff3e665,3,plausible,The woman*saved*her husband*a seat.,1725,4
+e497d3dd10cf2812b4b80671cff3e665,11,plausible,The grandmother*baked*the grandson*some cookies.,405,1
+e497d3dd10cf2812b4b80671cff3e665,11,plausible,The grandmother*baked*the grandson*some cookies.,467,2
+e497d3dd10cf2812b4b80671cff3e665,11,plausible,The grandmother*baked*the grandson*some cookies.,578,3
+e497d3dd10cf2812b4b80671cff3e665,11,plausible,The grandmother*baked*the grandson*some cookies.,1058,4
+e497d3dd10cf2812b4b80671cff3e665,14,implausible,The seamstress*made*a dress*her client.,602,1
+e497d3dd10cf2812b4b80671cff3e665,14,implausible,The seamstress*made*a dress*her client.,466,2
+e497d3dd10cf2812b4b80671cff3e665,14,implausible,The seamstress*made*a dress*her client.,436,3
+e497d3dd10cf2812b4b80671cff3e665,14,implausible,The seamstress*made*a dress*her client.,1073,4
+e497d3dd10cf2812b4b80671cff3e665,17,plausible,The travel agent*reserved*the businessman*a flight.,667,1
+e497d3dd10cf2812b4b80671cff3e665,17,plausible,The travel agent*reserved*the businessman*a flight.,497,2
+e497d3dd10cf2812b4b80671cff3e665,17,plausible,The travel agent*reserved*the businessman*a flight.,619,3
+e497d3dd10cf2812b4b80671cff3e665,17,plausible,The travel agent*reserved*the businessman*a flight.,1569,4
+e497d3dd10cf2812b4b80671cff3e665,6,implausible,The secretary*ordered*some office supplies*the boss.,529,1
+e497d3dd10cf2812b4b80671cff3e665,6,implausible,The secretary*ordered*some office supplies*the boss.,667,2
+e497d3dd10cf2812b4b80671cff3e665,6,implausible,The secretary*ordered*some office supplies*the boss.,1808,3
+e497d3dd10cf2812b4b80671cff3e665,6,implausible,The secretary*ordered*some office supplies*the boss.,1102,4
+e497d3dd10cf2812b4b80671cff3e665,10,implausible,The waitress*fixed*a sandwich*the customer.,527,1
+e497d3dd10cf2812b4b80671cff3e665,10,implausible,The waitress*fixed*a sandwich*the customer.,796,2
+e497d3dd10cf2812b4b80671cff3e665,10,implausible,The waitress*fixed*a sandwich*the customer.,668,3
+e497d3dd10cf2812b4b80671cff3e665,10,implausible,The waitress*fixed*a sandwich*the customer.,1249,4
+e497d3dd10cf2812b4b80671cff3e665,16,implausible,The man*ordered*some champagne*his girlfriend.,481,1
+e497d3dd10cf2812b4b80671cff3e665,16,implausible,The man*ordered*some champagne*his girlfriend.,437,2
+e497d3dd10cf2812b4b80671cff3e665,16,implausible,The man*ordered*some champagne*his girlfriend.,627,3
+e497d3dd10cf2812b4b80671cff3e665,16,implausible,The man*ordered*some champagne*his girlfriend.,696,4
+e497d3dd10cf2812b4b80671cff3e665,4,implausible,The grandmother*made*a quilt*her granddaughter.,497,1
+e497d3dd10cf2812b4b80671cff3e665,4,implausible,The grandmother*made*a quilt*her granddaughter.,356,2
+e497d3dd10cf2812b4b80671cff3e665,4,implausible,The grandmother*made*a quilt*her granddaughter.,375,3
+e497d3dd10cf2812b4b80671cff3e665,4,implausible,The grandmother*made*a quilt*her granddaughter.,932,4
+e497d3dd10cf2812b4b80671cff3e665,19,plausible,The church*built*the homeless*a shelter.,418,1
+e497d3dd10cf2812b4b80671cff3e665,19,plausible,The church*built*the homeless*a shelter.,606,2
+e497d3dd10cf2812b4b80671cff3e665,19,plausible,The church*built*the homeless*a shelter.,420,3
+e497d3dd10cf2812b4b80671cff3e665,1,plausible,The cook*baked*Lucy*a cake.,407,1
+e497d3dd10cf2812b4b80671cff3e665,1,plausible,The cook*baked*Lucy*a cake.,357,2
+e497d3dd10cf2812b4b80671cff3e665,1,plausible,The cook*baked*Lucy*a cake.,328,3
+e497d3dd10cf2812b4b80671cff3e665,1,plausible,The cook*baked*Lucy*a cake.,495,4
+e497d3dd10cf2812b4b80671cff3e665,20,implausible,The babysitter*fixed*some lunch*the child.,467,1
+e497d3dd10cf2812b4b80671cff3e665,20,implausible,The babysitter*fixed*some lunch*the child.,312,2
+e497d3dd10cf2812b4b80671cff3e665,20,implausible,The babysitter*fixed*some lunch*the child.,375,3
+e497d3dd10cf2812b4b80671cff3e665,20,implausible,The babysitter*fixed*some lunch*the child.,513,4
+e497d3dd10cf2812b4b80671cff3e665,5,plausible,The apprentice*fetched*the carpenter*a hammer.,654,1
+e497d3dd10cf2812b4b80671cff3e665,5,plausible,The apprentice*fetched*the carpenter*a hammer.,386,2
+e497d3dd10cf2812b4b80671cff3e665,5,plausible,The apprentice*fetched*the carpenter*a hammer.,643,3
+e497d3dd10cf2812b4b80671cff3e665,2,implausible,The bartender*poured*a drink*the customer.,467,1
+e497d3dd10cf2812b4b80671cff3e665,2,implausible,The bartender*poured*a drink*the customer.,407,2
+e497d3dd10cf2812b4b80671cff3e665,2,implausible,The bartender*poured*a drink*the customer.,420,3
+e497d3dd10cf2812b4b80671cff3e665,2,implausible,The bartender*poured*a drink*the customer.,485,4
+e497d3dd10cf2812b4b80671cff3e665,12,implausible,The nurse*poured*some water*the old man.,451,1
+e497d3dd10cf2812b4b80671cff3e665,12,implausible,The nurse*poured*some water*the old man.,438,2
+e497d3dd10cf2812b4b80671cff3e665,12,implausible,The nurse*poured*some water*the old man.,403,3
+e497d3dd10cf2812b4b80671cff3e665,12,implausible,The nurse*poured*some water*the old man.,1070,4
+e497d3dd10cf2812b4b80671cff3e665,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,469,1
+e497d3dd10cf2812b4b80671cff3e665,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,500,2
+e497d3dd10cf2812b4b80671cff3e665,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,856,3
+e497d3dd10cf2812b4b80671cff3e665,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1859,4
+e497d3dd10cf2812b4b80671cff3e665,9,plausible,The charity*built*the hurricane victim*a house.,404,1
+e497d3dd10cf2812b4b80671cff3e665,9,plausible,The charity*built*the hurricane victim*a house.,778,2
+e497d3dd10cf2812b4b80671cff3e665,9,plausible,The charity*built*the hurricane victim*a house.,712,3
+e497d3dd10cf2812b4b80671cff3e665,9,plausible,The charity*built*the hurricane victim*a house.,1407,4
+e497d3dd10cf2812b4b80671cff3e665,7,plausible,The wife*reserved*her husband*a table.,669,1
+e497d3dd10cf2812b4b80671cff3e665,7,plausible,The wife*reserved*her husband*a table.,542,2
+e497d3dd10cf2812b4b80671cff3e665,7,plausible,The wife*reserved*her husband*a table.,690,3
+e497d3dd10cf2812b4b80671cff3e665,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,559,1
+e497d3dd10cf2812b4b80671cff3e665,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,562,2
+e497d3dd10cf2812b4b80671cff3e665,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,390,3
+e497d3dd10cf2812b4b80671cff3e665,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1901,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1248,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1176,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1273,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,5,implausible,The apprentice*fetched*a hammer*the carpenter.,1792,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,14,plausible,The seamstress*made*her client*a dress.,831,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,14,plausible,The seamstress*made*her client*a dress.,848,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,2,plausible,The bartender*poured*the customer*a drink.,792,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,2,plausible,The bartender*poured*the customer*a drink.,704,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,2,plausible,The bartender*poured*the customer*a drink.,904,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,1,implausible,The cook*baked*a cake*Lucy.,1649,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,1,implausible,The cook*baked*a cake*Lucy.,869,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,1,implausible,The cook*baked*a cake*Lucy.,674,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,1,implausible,The cook*baked*a cake*Lucy.,688,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,17,implausible,The travel agent*reserved*a flight*the businessman.,986,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,17,implausible,The travel agent*reserved*a flight*the businessman.,895,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,17,implausible,The travel agent*reserved*a flight*the businessman.,689,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,17,implausible,The travel agent*reserved*a flight*the businessman.,888,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,10,plausible,The waitress*fixed*the customer*a sandwich.,736,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,10,plausible,The waitress*fixed*the customer*a sandwich.,712,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,10,plausible,The waitress*fixed*the customer*a sandwich.,697,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,10,plausible,The waitress*fixed*the customer*a sandwich.,1415,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1663,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,553,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,680,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,601,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,11,implausible,The grandmother*baked*some cookies*the grandson.,736,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,11,implausible,The grandmother*baked*some cookies*the grandson.,592,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,11,implausible,The grandmother*baked*some cookies*the grandson.,1089,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,11,implausible,The grandmother*baked*some cookies*the grandson.,1016,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,3,implausible,The woman*saved*a seat*her husband.,568,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,3,implausible,The woman*saved*a seat*her husband.,529,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,3,implausible,The woman*saved*a seat*her husband.,566,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,3,implausible,The woman*saved*a seat*her husband.,584,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,19,implausible,The church*built*a shelter*the homeless.,711,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,19,implausible,The church*built*a shelter*the homeless.,664,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,19,implausible,The church*built*a shelter*the homeless.,800,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,19,implausible,The church*built*a shelter*the homeless.,688,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,20,plausible,The babysitter*fixed*the child*some lunch.,480,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,20,plausible,The babysitter*fixed*the child*some lunch.,585,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,20,plausible,The babysitter*fixed*the child*some lunch.,536,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,20,plausible,The babysitter*fixed*the child*some lunch.,904,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,6,plausible,The secretary*ordered*the boss*some office supplies.,602,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,6,plausible,The secretary*ordered*the boss*some office supplies.,791,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,16,plausible,The man*ordered*his girlfriend*some champagne.,585,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,16,plausible,The man*ordered*his girlfriend*some champagne.,647,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,16,plausible,The man*ordered*his girlfriend*some champagne.,656,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,16,plausible,The man*ordered*his girlfriend*some champagne.,1138,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,9,implausible,The charity*built*a house*the hurricane victim.,449,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,9,implausible,The charity*built*a house*the hurricane victim.,576,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,9,implausible,The charity*built*a house*the hurricane victim.,617,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,9,implausible,The charity*built*a house*the hurricane victim.,775,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,12,plausible,The nurse*poured*the old man*some water.,528,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,12,plausible,The nurse*poured*the old man*some water.,633,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,12,plausible,The nurse*poured*the old man*some water.,592,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,12,plausible,The nurse*poured*the old man*some water.,584,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,13,implausible,The receptionist*saved*some cake*her co-worker.,1528,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,13,implausible,The receptionist*saved*some cake*her co-worker.,552,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,13,implausible,The receptionist*saved*some cake*her co-worker.,560,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,13,implausible,The receptionist*saved*some cake*her co-worker.,729,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,7,implausible,The wife*reserved*a table*her husband.,696,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,7,implausible,The wife*reserved*a table*her husband.,616,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,7,implausible,The wife*reserved*a table*her husband.,641,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,7,implausible,The wife*reserved*a table*her husband.,664,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,456,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,577,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,632,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1239,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,4,plausible,The grandmother*made*her granddaughter*a quilt.,881,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,4,plausible,The grandmother*made*her granddaughter*a quilt.,847,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,4,plausible,The grandmother*made*her granddaughter*a quilt.,1111,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,4,plausible,The grandmother*made*her granddaughter*a quilt.,1008,4
+f48fb0da9bb5266ddfbc9f3b96dce68b,8,plausible,The father*bought*his son*a bicycle.,400,1
+f48fb0da9bb5266ddfbc9f3b96dce68b,8,plausible,The father*bought*his son*a bicycle.,609,2
+f48fb0da9bb5266ddfbc9f3b96dce68b,8,plausible,The father*bought*his son*a bicycle.,472,3
+f48fb0da9bb5266ddfbc9f3b96dce68b,8,plausible,The father*bought*his son*a bicycle.,527,4
+67f21f32053e765011b7a58ebda7c0ef,17,plausible,The travel agent*reserved*the businessman*a flight.,897,1
+67f21f32053e765011b7a58ebda7c0ef,17,plausible,The travel agent*reserved*the businessman*a flight.,660,2
+67f21f32053e765011b7a58ebda7c0ef,17,plausible,The travel agent*reserved*the businessman*a flight.,560,3
+67f21f32053e765011b7a58ebda7c0ef,17,plausible,The travel agent*reserved*the businessman*a flight.,1079,4
+67f21f32053e765011b7a58ebda7c0ef,14,implausible,The seamstress*made*a dress*her client.,849,1
+67f21f32053e765011b7a58ebda7c0ef,14,implausible,The seamstress*made*a dress*her client.,432,2
+67f21f32053e765011b7a58ebda7c0ef,14,implausible,The seamstress*made*a dress*her client.,392,3
+67f21f32053e765011b7a58ebda7c0ef,14,implausible,The seamstress*made*a dress*her client.,890,4
+67f21f32053e765011b7a58ebda7c0ef,6,implausible,The secretary*ordered*some office supplies*the boss.,502,1
+67f21f32053e765011b7a58ebda7c0ef,6,implausible,The secretary*ordered*some office supplies*the boss.,550,2
+67f21f32053e765011b7a58ebda7c0ef,6,implausible,The secretary*ordered*some office supplies*the boss.,828,3
+67f21f32053e765011b7a58ebda7c0ef,6,implausible,The secretary*ordered*some office supplies*the boss.,699,4
+67f21f32053e765011b7a58ebda7c0ef,5,plausible,The apprentice*fetched*the carpenter*a hammer.,552,1
+67f21f32053e765011b7a58ebda7c0ef,5,plausible,The apprentice*fetched*the carpenter*a hammer.,484,2
+67f21f32053e765011b7a58ebda7c0ef,5,plausible,The apprentice*fetched*the carpenter*a hammer.,507,3
+67f21f32053e765011b7a58ebda7c0ef,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1309,4
+67f21f32053e765011b7a58ebda7c0ef,12,implausible,The nurse*poured*some water*the old man.,540,1
+67f21f32053e765011b7a58ebda7c0ef,12,implausible,The nurse*poured*some water*the old man.,639,2
+67f21f32053e765011b7a58ebda7c0ef,12,implausible,The nurse*poured*some water*the old man.,492,3
+67f21f32053e765011b7a58ebda7c0ef,12,implausible,The nurse*poured*some water*the old man.,909,4
+67f21f32053e765011b7a58ebda7c0ef,19,plausible,The church*built*the homeless*a shelter.,491,1
+67f21f32053e765011b7a58ebda7c0ef,19,plausible,The church*built*the homeless*a shelter.,532,2
+67f21f32053e765011b7a58ebda7c0ef,19,plausible,The church*built*the homeless*a shelter.,710,3
+67f21f32053e765011b7a58ebda7c0ef,19,plausible,The church*built*the homeless*a shelter.,1033,4
+67f21f32053e765011b7a58ebda7c0ef,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,630,1
+67f21f32053e765011b7a58ebda7c0ef,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,462,2
+67f21f32053e765011b7a58ebda7c0ef,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,637,3
+67f21f32053e765011b7a58ebda7c0ef,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,760,4
+67f21f32053e765011b7a58ebda7c0ef,11,plausible,The grandmother*baked*the grandson*some cookies.,651,1
+67f21f32053e765011b7a58ebda7c0ef,11,plausible,The grandmother*baked*the grandson*some cookies.,507,2
+67f21f32053e765011b7a58ebda7c0ef,11,plausible,The grandmother*baked*the grandson*some cookies.,640,3
+67f21f32053e765011b7a58ebda7c0ef,11,plausible,The grandmother*baked*the grandson*some cookies.,583,4
+67f21f32053e765011b7a58ebda7c0ef,3,plausible,The woman*saved*her husband*a seat.,463,1
+67f21f32053e765011b7a58ebda7c0ef,3,plausible,The woman*saved*her husband*a seat.,1044,2
+67f21f32053e765011b7a58ebda7c0ef,3,plausible,The woman*saved*her husband*a seat.,425,3
+67f21f32053e765011b7a58ebda7c0ef,3,plausible,The woman*saved*her husband*a seat.,1057,4
+67f21f32053e765011b7a58ebda7c0ef,13,plausible,The receptionist*saved*her co-worker*some cake.,493,1
+67f21f32053e765011b7a58ebda7c0ef,13,plausible,The receptionist*saved*her co-worker*some cake.,535,2
+67f21f32053e765011b7a58ebda7c0ef,13,plausible,The receptionist*saved*her co-worker*some cake.,637,3
+67f21f32053e765011b7a58ebda7c0ef,13,plausible,The receptionist*saved*her co-worker*some cake.,773,4
+67f21f32053e765011b7a58ebda7c0ef,4,implausible,The grandmother*made*a quilt*her granddaughter.,380,1
+67f21f32053e765011b7a58ebda7c0ef,4,implausible,The grandmother*made*a quilt*her granddaughter.,442,2
+67f21f32053e765011b7a58ebda7c0ef,4,implausible,The grandmother*made*a quilt*her granddaughter.,494,3
+67f21f32053e765011b7a58ebda7c0ef,4,implausible,The grandmother*made*a quilt*her granddaughter.,759,4
+67f21f32053e765011b7a58ebda7c0ef,7,plausible,The wife*reserved*her husband*a table.,390,1
+67f21f32053e765011b7a58ebda7c0ef,7,plausible,The wife*reserved*her husband*a table.,623,2
+67f21f32053e765011b7a58ebda7c0ef,7,plausible,The wife*reserved*her husband*a table.,488,3
+67f21f32053e765011b7a58ebda7c0ef,7,plausible,The wife*reserved*her husband*a table.,683,4
+67f21f32053e765011b7a58ebda7c0ef,8,implausible,The father*bought*a bicycle*his son.,378,1
+67f21f32053e765011b7a58ebda7c0ef,8,implausible,The father*bought*a bicycle*his son.,648,2
+67f21f32053e765011b7a58ebda7c0ef,8,implausible,The father*bought*a bicycle*his son.,561,3
+67f21f32053e765011b7a58ebda7c0ef,8,implausible,The father*bought*a bicycle*his son.,647,4
+67f21f32053e765011b7a58ebda7c0ef,10,implausible,The waitress*fixed*a sandwich*the customer.,977,1
+67f21f32053e765011b7a58ebda7c0ef,10,implausible,The waitress*fixed*a sandwich*the customer.,432,2
+67f21f32053e765011b7a58ebda7c0ef,10,implausible,The waitress*fixed*a sandwich*the customer.,444,3
+67f21f32053e765011b7a58ebda7c0ef,10,implausible,The waitress*fixed*a sandwich*the customer.,1201,4
+67f21f32053e765011b7a58ebda7c0ef,20,implausible,The babysitter*fixed*some lunch*the child.,410,1
+67f21f32053e765011b7a58ebda7c0ef,20,implausible,The babysitter*fixed*some lunch*the child.,420,2
+67f21f32053e765011b7a58ebda7c0ef,20,implausible,The babysitter*fixed*some lunch*the child.,403,3
+67f21f32053e765011b7a58ebda7c0ef,20,implausible,The babysitter*fixed*some lunch*the child.,595,4
+67f21f32053e765011b7a58ebda7c0ef,2,implausible,The bartender*poured*a drink*the customer.,593,1
+67f21f32053e765011b7a58ebda7c0ef,2,implausible,The bartender*poured*a drink*the customer.,354,2
+67f21f32053e765011b7a58ebda7c0ef,2,implausible,The bartender*poured*a drink*the customer.,386,3
+67f21f32053e765011b7a58ebda7c0ef,2,implausible,The bartender*poured*a drink*the customer.,483,4
+67f21f32053e765011b7a58ebda7c0ef,1,plausible,The cook*baked*Lucy*a cake.,349,1
+67f21f32053e765011b7a58ebda7c0ef,1,plausible,The cook*baked*Lucy*a cake.,306,2
+67f21f32053e765011b7a58ebda7c0ef,1,plausible,The cook*baked*Lucy*a cake.,326,3
+67f21f32053e765011b7a58ebda7c0ef,1,plausible,The cook*baked*Lucy*a cake.,1056,4
+67f21f32053e765011b7a58ebda7c0ef,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,634,1
+67f21f32053e765011b7a58ebda7c0ef,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,381,2
+67f21f32053e765011b7a58ebda7c0ef,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,460,3
+67f21f32053e765011b7a58ebda7c0ef,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,459,4
+67f21f32053e765011b7a58ebda7c0ef,9,plausible,The charity*built*the hurricane victim*a house.,398,1
+67f21f32053e765011b7a58ebda7c0ef,9,plausible,The charity*built*the hurricane victim*a house.,402,2
+67f21f32053e765011b7a58ebda7c0ef,9,plausible,The charity*built*the hurricane victim*a house.,676,3
+67f21f32053e765011b7a58ebda7c0ef,9,plausible,The charity*built*the hurricane victim*a house.,571,4
+67f21f32053e765011b7a58ebda7c0ef,16,implausible,The man*ordered*some champagne*his girlfriend.,526,1
+67f21f32053e765011b7a58ebda7c0ef,16,implausible,The man*ordered*some champagne*his girlfriend.,486,2
+67f21f32053e765011b7a58ebda7c0ef,16,implausible,The man*ordered*some champagne*his girlfriend.,772,3
+67f21f32053e765011b7a58ebda7c0ef,16,implausible,The man*ordered*some champagne*his girlfriend.,831,4
+19c2d7b9ded0b515c030e3b36dd11909,3,implausible,The woman*saved*a seat*her husband.,1608,1
+19c2d7b9ded0b515c030e3b36dd11909,3,implausible,The woman*saved*a seat*her husband.,777,2
+19c2d7b9ded0b515c030e3b36dd11909,3,implausible,The woman*saved*a seat*her husband.,496,3
+19c2d7b9ded0b515c030e3b36dd11909,3,implausible,The woman*saved*a seat*her husband.,693,4
+19c2d7b9ded0b515c030e3b36dd11909,2,plausible,The bartender*poured*the customer*a drink.,933,1
+19c2d7b9ded0b515c030e3b36dd11909,2,plausible,The bartender*poured*the customer*a drink.,890,2
+19c2d7b9ded0b515c030e3b36dd11909,2,plausible,The bartender*poured*the customer*a drink.,652,3
+19c2d7b9ded0b515c030e3b36dd11909,2,plausible,The bartender*poured*the customer*a drink.,688,4
+19c2d7b9ded0b515c030e3b36dd11909,20,plausible,The babysitter*fixed*the child*some lunch.,512,1
+19c2d7b9ded0b515c030e3b36dd11909,20,plausible,The babysitter*fixed*the child*some lunch.,476,2
+19c2d7b9ded0b515c030e3b36dd11909,20,plausible,The babysitter*fixed*the child*some lunch.,394,3
+19c2d7b9ded0b515c030e3b36dd11909,20,plausible,The babysitter*fixed*the child*some lunch.,614,4
+19c2d7b9ded0b515c030e3b36dd11909,19,implausible,The church*built*a shelter*the homeless.,384,1
+19c2d7b9ded0b515c030e3b36dd11909,19,implausible,The church*built*a shelter*the homeless.,368,2
+19c2d7b9ded0b515c030e3b36dd11909,19,implausible,The church*built*a shelter*the homeless.,456,3
+19c2d7b9ded0b515c030e3b36dd11909,19,implausible,The church*built*a shelter*the homeless.,800,4
+19c2d7b9ded0b515c030e3b36dd11909,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,578,1
+19c2d7b9ded0b515c030e3b36dd11909,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,450,2
+19c2d7b9ded0b515c030e3b36dd11909,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,685,3
+19c2d7b9ded0b515c030e3b36dd11909,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,449,4
+19c2d7b9ded0b515c030e3b36dd11909,5,implausible,The apprentice*fetched*a hammer*the carpenter.,453,1
+19c2d7b9ded0b515c030e3b36dd11909,5,implausible,The apprentice*fetched*a hammer*the carpenter.,647,2
+19c2d7b9ded0b515c030e3b36dd11909,5,implausible,The apprentice*fetched*a hammer*the carpenter.,507,3
+19c2d7b9ded0b515c030e3b36dd11909,5,implausible,The apprentice*fetched*a hammer*the carpenter.,620,4
+19c2d7b9ded0b515c030e3b36dd11909,4,plausible,The grandmother*made*her granddaughter*a quilt.,526,1
+19c2d7b9ded0b515c030e3b36dd11909,4,plausible,The grandmother*made*her granddaughter*a quilt.,428,2
+19c2d7b9ded0b515c030e3b36dd11909,4,plausible,The grandmother*made*her granddaughter*a quilt.,512,3
+19c2d7b9ded0b515c030e3b36dd11909,4,plausible,The grandmother*made*her granddaughter*a quilt.,778,4
+19c2d7b9ded0b515c030e3b36dd11909,6,plausible,The secretary*ordered*the boss*some office supplies.,368,1
+19c2d7b9ded0b515c030e3b36dd11909,6,plausible,The secretary*ordered*the boss*some office supplies.,307,2
+19c2d7b9ded0b515c030e3b36dd11909,6,plausible,The secretary*ordered*the boss*some office supplies.,391,3
+19c2d7b9ded0b515c030e3b36dd11909,6,plausible,The secretary*ordered*the boss*some office supplies.,958,4
+19c2d7b9ded0b515c030e3b36dd11909,1,implausible,The cook*baked*a cake*Lucy.,505,1
+19c2d7b9ded0b515c030e3b36dd11909,1,implausible,The cook*baked*a cake*Lucy.,341,2
+19c2d7b9ded0b515c030e3b36dd11909,1,implausible,The cook*baked*a cake*Lucy.,382,3
+19c2d7b9ded0b515c030e3b36dd11909,1,implausible,The cook*baked*a cake*Lucy.,443,4
+19c2d7b9ded0b515c030e3b36dd11909,11,implausible,The grandmother*baked*some cookies*the grandson.,360,1
+19c2d7b9ded0b515c030e3b36dd11909,11,implausible,The grandmother*baked*some cookies*the grandson.,427,2
+19c2d7b9ded0b515c030e3b36dd11909,11,implausible,The grandmother*baked*some cookies*the grandson.,503,3
+19c2d7b9ded0b515c030e3b36dd11909,11,implausible,The grandmother*baked*some cookies*the grandson.,737,4
+19c2d7b9ded0b515c030e3b36dd11909,13,implausible,The receptionist*saved*some cake*her co-worker.,393,1
+19c2d7b9ded0b515c030e3b36dd11909,13,implausible,The receptionist*saved*some cake*her co-worker.,380,2
+19c2d7b9ded0b515c030e3b36dd11909,13,implausible,The receptionist*saved*some cake*her co-worker.,419,3
+19c2d7b9ded0b515c030e3b36dd11909,13,implausible,The receptionist*saved*some cake*her co-worker.,884,4
+19c2d7b9ded0b515c030e3b36dd11909,8,plausible,The father*bought*his son*a bicycle.,334,1
+19c2d7b9ded0b515c030e3b36dd11909,8,plausible,The father*bought*his son*a bicycle.,399,2
+19c2d7b9ded0b515c030e3b36dd11909,8,plausible,The father*bought*his son*a bicycle.,495,3
+19c2d7b9ded0b515c030e3b36dd11909,8,plausible,The father*bought*his son*a bicycle.,519,4
+19c2d7b9ded0b515c030e3b36dd11909,16,plausible,The man*ordered*his girlfriend*some champagne.,297,1
+19c2d7b9ded0b515c030e3b36dd11909,16,plausible,The man*ordered*his girlfriend*some champagne.,551,2
+19c2d7b9ded0b515c030e3b36dd11909,16,plausible,The man*ordered*his girlfriend*some champagne.,603,3
+19c2d7b9ded0b515c030e3b36dd11909,16,plausible,The man*ordered*his girlfriend*some champagne.,619,4
+19c2d7b9ded0b515c030e3b36dd11909,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,315,1
+19c2d7b9ded0b515c030e3b36dd11909,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,281,2
+19c2d7b9ded0b515c030e3b36dd11909,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,432,3
+19c2d7b9ded0b515c030e3b36dd11909,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,861,4
+19c2d7b9ded0b515c030e3b36dd11909,9,implausible,The charity*built*a house*the hurricane victim.,293,1
+19c2d7b9ded0b515c030e3b36dd11909,9,implausible,The charity*built*a house*the hurricane victim.,335,2
+19c2d7b9ded0b515c030e3b36dd11909,9,implausible,The charity*built*a house*the hurricane victim.,329,3
+19c2d7b9ded0b515c030e3b36dd11909,9,implausible,The charity*built*a house*the hurricane victim.,680,4
+19c2d7b9ded0b515c030e3b36dd11909,17,implausible,The travel agent*reserved*a flight*the businessman.,223,1
+19c2d7b9ded0b515c030e3b36dd11909,17,implausible,The travel agent*reserved*a flight*the businessman.,707,2
+19c2d7b9ded0b515c030e3b36dd11909,17,implausible,The travel agent*reserved*a flight*the businessman.,367,3
+19c2d7b9ded0b515c030e3b36dd11909,17,implausible,The travel agent*reserved*a flight*the businessman.,638,4
+19c2d7b9ded0b515c030e3b36dd11909,7,implausible,The wife*reserved*a table*her husband.,375,1
+19c2d7b9ded0b515c030e3b36dd11909,7,implausible,The wife*reserved*a table*her husband.,369,2
+19c2d7b9ded0b515c030e3b36dd11909,7,implausible,The wife*reserved*a table*her husband.,332,3
+19c2d7b9ded0b515c030e3b36dd11909,7,implausible,The wife*reserved*a table*her husband.,381,4
+19c2d7b9ded0b515c030e3b36dd11909,14,plausible,The seamstress*made*her client*a dress.,323,1
+19c2d7b9ded0b515c030e3b36dd11909,14,plausible,The seamstress*made*her client*a dress.,472,2
+19c2d7b9ded0b515c030e3b36dd11909,14,plausible,The seamstress*made*her client*a dress.,320,3
+19c2d7b9ded0b515c030e3b36dd11909,14,plausible,The seamstress*made*her client*a dress.,444,4
+19c2d7b9ded0b515c030e3b36dd11909,12,plausible,The nurse*poured*the old man*some water.,331,1
+19c2d7b9ded0b515c030e3b36dd11909,12,plausible,The nurse*poured*the old man*some water.,429,2
+19c2d7b9ded0b515c030e3b36dd11909,12,plausible,The nurse*poured*the old man*some water.,640,3
+19c2d7b9ded0b515c030e3b36dd11909,12,plausible,The nurse*poured*the old man*some water.,643,4
+19c2d7b9ded0b515c030e3b36dd11909,10,plausible,The waitress*fixed*the customer*a sandwich.,601,1
+19c2d7b9ded0b515c030e3b36dd11909,10,plausible,The waitress*fixed*the customer*a sandwich.,535,2
+19c2d7b9ded0b515c030e3b36dd11909,10,plausible,The waitress*fixed*the customer*a sandwich.,489,3
+19c2d7b9ded0b515c030e3b36dd11909,10,plausible,The waitress*fixed*the customer*a sandwich.,588,4
+dbb74898c9160f04a4b94916912f1d25,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1304,2
+dbb74898c9160f04a4b94916912f1d25,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1464,3
+dbb74898c9160f04a4b94916912f1d25,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1216,2
+dbb74898c9160f04a4b94916912f1d25,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1952,3
+dbb74898c9160f04a4b94916912f1d25,1,plausible,The cook*baked*Lucy*a cake.,736,1
+dbb74898c9160f04a4b94916912f1d25,1,plausible,The cook*baked*Lucy*a cake.,712,2
+dbb74898c9160f04a4b94916912f1d25,1,plausible,The cook*baked*Lucy*a cake.,768,3
+dbb74898c9160f04a4b94916912f1d25,2,implausible,The bartender*poured*a drink*the customer.,1552,1
+dbb74898c9160f04a4b94916912f1d25,2,implausible,The bartender*poured*a drink*the customer.,1336,2
+dbb74898c9160f04a4b94916912f1d25,2,implausible,The bartender*poured*a drink*the customer.,1216,3
+dbb74898c9160f04a4b94916912f1d25,19,plausible,The church*built*the homeless*a shelter.,847,1
+dbb74898c9160f04a4b94916912f1d25,19,plausible,The church*built*the homeless*a shelter.,800,2
+dbb74898c9160f04a4b94916912f1d25,19,plausible,The church*built*the homeless*a shelter.,1160,3
+dbb74898c9160f04a4b94916912f1d25,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,992,1
+dbb74898c9160f04a4b94916912f1d25,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,832,2
+dbb74898c9160f04a4b94916912f1d25,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1583,4
+dbb74898c9160f04a4b94916912f1d25,14,implausible,The seamstress*made*a dress*her client.,1112,2
+dbb74898c9160f04a4b94916912f1d25,14,implausible,The seamstress*made*a dress*her client.,1312,3
+dbb74898c9160f04a4b94916912f1d25,14,implausible,The seamstress*made*a dress*her client.,1832,4
+dbb74898c9160f04a4b94916912f1d25,8,implausible,The father*bought*a bicycle*his son.,1104,1
+dbb74898c9160f04a4b94916912f1d25,8,implausible,The father*bought*a bicycle*his son.,952,2
+dbb74898c9160f04a4b94916912f1d25,8,implausible,The father*bought*a bicycle*his son.,1200,3
+dbb74898c9160f04a4b94916912f1d25,8,implausible,The father*bought*a bicycle*his son.,1457,4
+dbb74898c9160f04a4b94916912f1d25,12,implausible,The nurse*poured*some water*the old man.,792,1
+dbb74898c9160f04a4b94916912f1d25,12,implausible,The nurse*poured*some water*the old man.,792,2
+dbb74898c9160f04a4b94916912f1d25,12,implausible,The nurse*poured*some water*the old man.,920,3
+dbb74898c9160f04a4b94916912f1d25,12,implausible,The nurse*poured*some water*the old man.,1575,4
+dbb74898c9160f04a4b94916912f1d25,13,plausible,The receptionist*saved*her co-worker*some cake.,969,1
+dbb74898c9160f04a4b94916912f1d25,13,plausible,The receptionist*saved*her co-worker*some cake.,1144,3
+dbb74898c9160f04a4b94916912f1d25,4,implausible,The grandmother*made*a quilt*her granddaughter.,1808,2
+dbb74898c9160f04a4b94916912f1d25,4,implausible,The grandmother*made*a quilt*her granddaughter.,1032,3
+dbb74898c9160f04a4b94916912f1d25,11,plausible,The grandmother*baked*the grandson*some cookies.,1137,1
+dbb74898c9160f04a4b94916912f1d25,11,plausible,The grandmother*baked*the grandson*some cookies.,904,3
+dbb74898c9160f04a4b94916912f1d25,11,plausible,The grandmother*baked*the grandson*some cookies.,1072,4
+dbb74898c9160f04a4b94916912f1d25,9,plausible,The charity*built*the hurricane victim*a house.,920,1
+dbb74898c9160f04a4b94916912f1d25,9,plausible,The charity*built*the hurricane victim*a house.,640,2
+dbb74898c9160f04a4b94916912f1d25,9,plausible,The charity*built*the hurricane victim*a house.,1368,4
+dbb74898c9160f04a4b94916912f1d25,10,implausible,The waitress*fixed*a sandwich*the customer.,1016,1
+dbb74898c9160f04a4b94916912f1d25,10,implausible,The waitress*fixed*a sandwich*the customer.,744,2
+dbb74898c9160f04a4b94916912f1d25,10,implausible,The waitress*fixed*a sandwich*the customer.,912,3
+dbb74898c9160f04a4b94916912f1d25,10,implausible,The waitress*fixed*a sandwich*the customer.,1296,4
+dbb74898c9160f04a4b94916912f1d25,3,plausible,The woman*saved*her husband*a seat.,1024,1
+dbb74898c9160f04a4b94916912f1d25,3,plausible,The woman*saved*her husband*a seat.,1464,2
+dbb74898c9160f04a4b94916912f1d25,3,plausible,The woman*saved*her husband*a seat.,1479,4
+dbb74898c9160f04a4b94916912f1d25,17,plausible,The travel agent*reserved*the businessman*a flight.,888,2
+dbb74898c9160f04a4b94916912f1d25,17,plausible,The travel agent*reserved*the businessman*a flight.,1248,3
+dbb74898c9160f04a4b94916912f1d25,17,plausible,The travel agent*reserved*the businessman*a flight.,1472,4
+dbb74898c9160f04a4b94916912f1d25,6,implausible,The secretary*ordered*some office supplies*the boss.,1352,1
+dbb74898c9160f04a4b94916912f1d25,6,implausible,The secretary*ordered*some office supplies*the boss.,1336,2
+dbb74898c9160f04a4b94916912f1d25,6,implausible,The secretary*ordered*some office supplies*the boss.,1944,3
+dbb74898c9160f04a4b94916912f1d25,6,implausible,The secretary*ordered*some office supplies*the boss.,1528,4
+dbb74898c9160f04a4b94916912f1d25,20,implausible,The babysitter*fixed*some lunch*the child.,1144,1
+dbb74898c9160f04a4b94916912f1d25,20,implausible,The babysitter*fixed*some lunch*the child.,736,2
+dbb74898c9160f04a4b94916912f1d25,20,implausible,The babysitter*fixed*some lunch*the child.,1472,3
+dbb74898c9160f04a4b94916912f1d25,20,implausible,The babysitter*fixed*some lunch*the child.,1368,4
+dbb74898c9160f04a4b94916912f1d25,16,implausible,The man*ordered*some champagne*his girlfriend.,888,1
+dbb74898c9160f04a4b94916912f1d25,16,implausible,The man*ordered*some champagne*his girlfriend.,1024,2
+dbb74898c9160f04a4b94916912f1d25,16,implausible,The man*ordered*some champagne*his girlfriend.,1768,3
+dbb74898c9160f04a4b94916912f1d25,7,plausible,The wife*reserved*her husband*a table.,792,1
+dbb74898c9160f04a4b94916912f1d25,7,plausible,The wife*reserved*her husband*a table.,1521,2
+dbb74898c9160f04a4b94916912f1d25,7,plausible,The wife*reserved*her husband*a table.,1423,3
+dbb74898c9160f04a4b94916912f1d25,7,plausible,The wife*reserved*her husband*a table.,1128,4
+0e02bad30b4fa81e489c2df323487f02,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1673,2
+0e02bad30b4fa81e489c2df323487f02,12,implausible,The nurse*poured*some water*the old man.,869,1
+0e02bad30b4fa81e489c2df323487f02,12,implausible,The nurse*poured*some water*the old man.,825,2
+0e02bad30b4fa81e489c2df323487f02,12,implausible,The nurse*poured*some water*the old man.,791,3
+0e02bad30b4fa81e489c2df323487f02,12,implausible,The nurse*poured*some water*the old man.,1826,4
+0e02bad30b4fa81e489c2df323487f02,4,implausible,The grandmother*made*a quilt*her granddaughter.,781,1
+0e02bad30b4fa81e489c2df323487f02,4,implausible,The grandmother*made*a quilt*her granddaughter.,703,2
+0e02bad30b4fa81e489c2df323487f02,4,implausible,The grandmother*made*a quilt*her granddaughter.,814,3
+0e02bad30b4fa81e489c2df323487f02,11,plausible,The grandmother*baked*the grandson*some cookies.,705,1
+0e02bad30b4fa81e489c2df323487f02,11,plausible,The grandmother*baked*the grandson*some cookies.,639,2
+0e02bad30b4fa81e489c2df323487f02,11,plausible,The grandmother*baked*the grandson*some cookies.,756,3
+0e02bad30b4fa81e489c2df323487f02,11,plausible,The grandmother*baked*the grandson*some cookies.,1091,4
+0e02bad30b4fa81e489c2df323487f02,6,implausible,The secretary*ordered*some office supplies*the boss.,705,1
+0e02bad30b4fa81e489c2df323487f02,6,implausible,The secretary*ordered*some office supplies*the boss.,655,2
+0e02bad30b4fa81e489c2df323487f02,6,implausible,The secretary*ordered*some office supplies*the boss.,905,3
+0e02bad30b4fa81e489c2df323487f02,6,implausible,The secretary*ordered*some office supplies*the boss.,1328,4
+0e02bad30b4fa81e489c2df323487f02,20,implausible,The babysitter*fixed*some lunch*the child.,864,1
+0e02bad30b4fa81e489c2df323487f02,20,implausible,The babysitter*fixed*some lunch*the child.,668,2
+0e02bad30b4fa81e489c2df323487f02,20,implausible,The babysitter*fixed*some lunch*the child.,676,3
+0e02bad30b4fa81e489c2df323487f02,9,plausible,The charity*built*the hurricane victim*a house.,657,1
+0e02bad30b4fa81e489c2df323487f02,9,plausible,The charity*built*the hurricane victim*a house.,685,2
+0e02bad30b4fa81e489c2df323487f02,9,plausible,The charity*built*the hurricane victim*a house.,861,3
+0e02bad30b4fa81e489c2df323487f02,9,plausible,The charity*built*the hurricane victim*a house.,1408,4
+0e02bad30b4fa81e489c2df323487f02,16,implausible,The man*ordered*some champagne*his girlfriend.,564,1
+0e02bad30b4fa81e489c2df323487f02,16,implausible,The man*ordered*some champagne*his girlfriend.,586,2
+0e02bad30b4fa81e489c2df323487f02,16,implausible,The man*ordered*some champagne*his girlfriend.,625,3
+0e02bad30b4fa81e489c2df323487f02,16,implausible,The man*ordered*some champagne*his girlfriend.,1383,4
+0e02bad30b4fa81e489c2df323487f02,2,implausible,The bartender*poured*a drink*the customer.,891,1
+0e02bad30b4fa81e489c2df323487f02,2,implausible,The bartender*poured*a drink*the customer.,684,2
+0e02bad30b4fa81e489c2df323487f02,2,implausible,The bartender*poured*a drink*the customer.,743,3
+0e02bad30b4fa81e489c2df323487f02,2,implausible,The bartender*poured*a drink*the customer.,894,4
+0e02bad30b4fa81e489c2df323487f02,3,plausible,The woman*saved*her husband*a seat.,650,1
+0e02bad30b4fa81e489c2df323487f02,3,plausible,The woman*saved*her husband*a seat.,753,2
+0e02bad30b4fa81e489c2df323487f02,3,plausible,The woman*saved*her husband*a seat.,831,3
+0e02bad30b4fa81e489c2df323487f02,3,plausible,The woman*saved*her husband*a seat.,1560,4
+0e02bad30b4fa81e489c2df323487f02,7,plausible,The wife*reserved*her husband*a table.,605,1
+0e02bad30b4fa81e489c2df323487f02,7,plausible,The wife*reserved*her husband*a table.,683,2
+0e02bad30b4fa81e489c2df323487f02,7,plausible,The wife*reserved*her husband*a table.,707,3
+0e02bad30b4fa81e489c2df323487f02,7,plausible,The wife*reserved*her husband*a table.,953,4
+0e02bad30b4fa81e489c2df323487f02,17,plausible,The travel agent*reserved*the businessman*a flight.,765,1
+0e02bad30b4fa81e489c2df323487f02,17,plausible,The travel agent*reserved*the businessman*a flight.,741,2
+0e02bad30b4fa81e489c2df323487f02,17,plausible,The travel agent*reserved*the businessman*a flight.,948,3
+0e02bad30b4fa81e489c2df323487f02,10,implausible,The waitress*fixed*a sandwich*the customer.,596,1
+0e02bad30b4fa81e489c2df323487f02,10,implausible,The waitress*fixed*a sandwich*the customer.,756,2
+0e02bad30b4fa81e489c2df323487f02,10,implausible,The waitress*fixed*a sandwich*the customer.,798,3
+0e02bad30b4fa81e489c2df323487f02,10,implausible,The waitress*fixed*a sandwich*the customer.,942,4
+0e02bad30b4fa81e489c2df323487f02,19,plausible,The church*built*the homeless*a shelter.,712,1
+0e02bad30b4fa81e489c2df323487f02,19,plausible,The church*built*the homeless*a shelter.,785,2
+0e02bad30b4fa81e489c2df323487f02,19,plausible,The church*built*the homeless*a shelter.,778,3
+0e02bad30b4fa81e489c2df323487f02,5,plausible,The apprentice*fetched*the carpenter*a hammer.,742,1
+0e02bad30b4fa81e489c2df323487f02,5,plausible,The apprentice*fetched*the carpenter*a hammer.,744,2
+0e02bad30b4fa81e489c2df323487f02,5,plausible,The apprentice*fetched*the carpenter*a hammer.,770,3
+0e02bad30b4fa81e489c2df323487f02,8,implausible,The father*bought*a bicycle*his son.,679,1
+0e02bad30b4fa81e489c2df323487f02,8,implausible,The father*bought*a bicycle*his son.,707,2
+0e02bad30b4fa81e489c2df323487f02,8,implausible,The father*bought*a bicycle*his son.,599,3
+0e02bad30b4fa81e489c2df323487f02,13,plausible,The receptionist*saved*her co-worker*some cake.,1073,1
+0e02bad30b4fa81e489c2df323487f02,13,plausible,The receptionist*saved*her co-worker*some cake.,704,2
+0e02bad30b4fa81e489c2df323487f02,13,plausible,The receptionist*saved*her co-worker*some cake.,995,3
+0e02bad30b4fa81e489c2df323487f02,1,plausible,The cook*baked*Lucy*a cake.,679,1
+0e02bad30b4fa81e489c2df323487f02,1,plausible,The cook*baked*Lucy*a cake.,674,2
+0e02bad30b4fa81e489c2df323487f02,1,plausible,The cook*baked*Lucy*a cake.,769,3
+0e02bad30b4fa81e489c2df323487f02,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1129,1
+0e02bad30b4fa81e489c2df323487f02,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,855,2
+0e02bad30b4fa81e489c2df323487f02,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1489,3
+0e02bad30b4fa81e489c2df323487f02,14,implausible,The seamstress*made*a dress*her client.,984,2
+0e02bad30b4fa81e489c2df323487f02,14,implausible,The seamstress*made*a dress*her client.,1023,3
+8d21ee40376569fc7e313cf00861df45,6,implausible,The secretary*ordered*some office supplies*the boss.,1427,1
+8d21ee40376569fc7e313cf00861df45,6,implausible,The secretary*ordered*some office supplies*the boss.,1133,2
+8d21ee40376569fc7e313cf00861df45,6,implausible,The secretary*ordered*some office supplies*the boss.,1326,3
+8d21ee40376569fc7e313cf00861df45,6,implausible,The secretary*ordered*some office supplies*the boss.,1750,4
+8d21ee40376569fc7e313cf00861df45,20,implausible,The babysitter*fixed*some lunch*the child.,993,1
+8d21ee40376569fc7e313cf00861df45,20,implausible,The babysitter*fixed*some lunch*the child.,638,2
+8d21ee40376569fc7e313cf00861df45,20,implausible,The babysitter*fixed*some lunch*the child.,759,3
+8d21ee40376569fc7e313cf00861df45,20,implausible,The babysitter*fixed*some lunch*the child.,1965,4
+8d21ee40376569fc7e313cf00861df45,3,plausible,The woman*saved*her husband*a seat.,1113,1
+8d21ee40376569fc7e313cf00861df45,3,plausible,The woman*saved*her husband*a seat.,638,2
+8d21ee40376569fc7e313cf00861df45,3,plausible,The woman*saved*her husband*a seat.,648,3
+8d21ee40376569fc7e313cf00861df45,3,plausible,The woman*saved*her husband*a seat.,1811,4
+8d21ee40376569fc7e313cf00861df45,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1078,1
+8d21ee40376569fc7e313cf00861df45,5,plausible,The apprentice*fetched*the carpenter*a hammer.,708,2
+8d21ee40376569fc7e313cf00861df45,5,plausible,The apprentice*fetched*the carpenter*a hammer.,1326,4
+8d21ee40376569fc7e313cf00861df45,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,936,1
+8d21ee40376569fc7e313cf00861df45,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,504,2
+8d21ee40376569fc7e313cf00861df45,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1033,3
+8d21ee40376569fc7e313cf00861df45,15,plausible,The lab-assistant*fetched*the scientist*a test-tube.,1410,4
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,959,1
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,563,2
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,868,3
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,843,4
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,959,1
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,563,2
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,868,3
+8d21ee40376569fc7e313cf00861df45,13,plausible,The receptionist*saved*her co-worker*some cake.,843,4
+8d21ee40376569fc7e313cf00861df45,4,implausible,The grandmother*made*a quilt*her granddaughter.,595,1
+8d21ee40376569fc7e313cf00861df45,4,implausible,The grandmother*made*a quilt*her granddaughter.,927,2
+8d21ee40376569fc7e313cf00861df45,4,implausible,The grandmother*made*a quilt*her granddaughter.,968,3
+8d21ee40376569fc7e313cf00861df45,4,implausible,The grandmother*made*a quilt*her granddaughter.,1491,4
+8d21ee40376569fc7e313cf00861df45,2,implausible,The bartender*poured*a drink*the customer.,978,1
+8d21ee40376569fc7e313cf00861df45,2,implausible,The bartender*poured*a drink*the customer.,762,2
+8d21ee40376569fc7e313cf00861df45,2,implausible,The bartender*poured*a drink*the customer.,789,3
+8d21ee40376569fc7e313cf00861df45,2,implausible,The bartender*poured*a drink*the customer.,1695,4
+8d21ee40376569fc7e313cf00861df45,12,implausible,The nurse*poured*some water*the old man.,1596,1
+8d21ee40376569fc7e313cf00861df45,12,implausible,The nurse*poured*some water*the old man.,923,2
+8d21ee40376569fc7e313cf00861df45,12,implausible,The nurse*poured*some water*the old man.,783,3
+8d21ee40376569fc7e313cf00861df45,12,implausible,The nurse*poured*some water*the old man.,1742,4
+8d21ee40376569fc7e313cf00861df45,14,implausible,The seamstress*made*a dress*her client.,1584,1
+8d21ee40376569fc7e313cf00861df45,14,implausible,The seamstress*made*a dress*her client.,729,2
+8d21ee40376569fc7e313cf00861df45,14,implausible,The seamstress*made*a dress*her client.,827,3
+8d21ee40376569fc7e313cf00861df45,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,736,1
+8d21ee40376569fc7e313cf00861df45,18,implausible,The boyfriend*obtained*some concert tickets*his girlfriend.,1068,2
+8d21ee40376569fc7e313cf00861df45,16,implausible,The man*ordered*some champagne*his girlfriend.,539,1
+8d21ee40376569fc7e313cf00861df45,16,implausible,The man*ordered*some champagne*his girlfriend.,704,2
+8d21ee40376569fc7e313cf00861df45,16,implausible,The man*ordered*some champagne*his girlfriend.,882,3
+8d21ee40376569fc7e313cf00861df45,16,implausible,The man*ordered*some champagne*his girlfriend.,1139,4
+8d21ee40376569fc7e313cf00861df45,17,plausible,The travel agent*reserved*the businessman*a flight.,1672,1
+8d21ee40376569fc7e313cf00861df45,17,plausible,The travel agent*reserved*the businessman*a flight.,848,2
+8d21ee40376569fc7e313cf00861df45,17,plausible,The travel agent*reserved*the businessman*a flight.,677,3
+8d21ee40376569fc7e313cf00861df45,17,plausible,The travel agent*reserved*the businessman*a flight.,1108,4
+8d21ee40376569fc7e313cf00861df45,11,plausible,The grandmother*baked*the grandson*some cookies.,723,1
+8d21ee40376569fc7e313cf00861df45,11,plausible,The grandmother*baked*the grandson*some cookies.,830,2
+8d21ee40376569fc7e313cf00861df45,11,plausible,The grandmother*baked*the grandson*some cookies.,1021,3
+8d21ee40376569fc7e313cf00861df45,11,plausible,The grandmother*baked*the grandson*some cookies.,1582,4
+8d21ee40376569fc7e313cf00861df45,7,plausible,The wife*reserved*her husband*a table.,758,1
+8d21ee40376569fc7e313cf00861df45,7,plausible,The wife*reserved*her husband*a table.,784,2
+8d21ee40376569fc7e313cf00861df45,7,plausible,The wife*reserved*her husband*a table.,665,3
+8d21ee40376569fc7e313cf00861df45,7,plausible,The wife*reserved*her husband*a table.,1570,4
+8d21ee40376569fc7e313cf00861df45,19,plausible,The church*built*the homeless*a shelter.,590,1
+8d21ee40376569fc7e313cf00861df45,19,plausible,The church*built*the homeless*a shelter.,563,2
+8d21ee40376569fc7e313cf00861df45,19,plausible,The church*built*the homeless*a shelter.,992,3
+8d21ee40376569fc7e313cf00861df45,19,plausible,The church*built*the homeless*a shelter.,1498,4
+8d21ee40376569fc7e313cf00861df45,8,implausible,The father*bought*a bicycle*his son.,624,1
+8d21ee40376569fc7e313cf00861df45,8,implausible,The father*bought*a bicycle*his son.,873,2
+8d21ee40376569fc7e313cf00861df45,9,plausible,The charity*built*the hurricane victim*a house.,1865,1
+8d21ee40376569fc7e313cf00861df45,9,plausible,The charity*built*the hurricane victim*a house.,692,2
+8d21ee40376569fc7e313cf00861df45,9,plausible,The charity*built*the hurricane victim*a house.,1199,3
+8d21ee40376569fc7e313cf00861df45,10,implausible,The waitress*fixed*a sandwich*the customer.,1836,1
+8d21ee40376569fc7e313cf00861df45,10,implausible,The waitress*fixed*a sandwich*the customer.,789,2
+8d21ee40376569fc7e313cf00861df45,10,implausible,The waitress*fixed*a sandwich*the customer.,1167,3
+8d21ee40376569fc7e313cf00861df45,1,plausible,The cook*baked*Lucy*a cake.,528,1
+8d21ee40376569fc7e313cf00861df45,1,plausible,The cook*baked*Lucy*a cake.,524,2
+8d21ee40376569fc7e313cf00861df45,1,plausible,The cook*baked*Lucy*a cake.,580,3
+8d21ee40376569fc7e313cf00861df45,1,plausible,The cook*baked*Lucy*a cake.,1580,4
+ac55e6442ec13faa5a616308add32e86,20,plausible,The babysitter*fixed*the child*some lunch.,1556,2
+ac55e6442ec13faa5a616308add32e86,12,plausible,The nurse*poured*the old man*some water.,1435,1
+ac55e6442ec13faa5a616308add32e86,12,plausible,The nurse*poured*the old man*some water.,1243,2
+ac55e6442ec13faa5a616308add32e86,12,plausible,The nurse*poured*the old man*some water.,1210,3
+ac55e6442ec13faa5a616308add32e86,12,plausible,The nurse*poured*the old man*some water.,1988,4
+ac55e6442ec13faa5a616308add32e86,14,plausible,The seamstress*made*her client*a dress.,895,2
+ac55e6442ec13faa5a616308add32e86,14,plausible,The seamstress*made*her client*a dress.,992,3
+ac55e6442ec13faa5a616308add32e86,14,plausible,The seamstress*made*her client*a dress.,1403,4
+ac55e6442ec13faa5a616308add32e86,19,implausible,The church*built*a shelter*the homeless.,982,1
+ac55e6442ec13faa5a616308add32e86,19,implausible,The church*built*a shelter*the homeless.,959,2
+ac55e6442ec13faa5a616308add32e86,19,implausible,The church*built*a shelter*the homeless.,1110,3
+ac55e6442ec13faa5a616308add32e86,10,plausible,The waitress*fixed*the customer*a sandwich.,1300,1
+ac55e6442ec13faa5a616308add32e86,10,plausible,The waitress*fixed*the customer*a sandwich.,820,2
+ac55e6442ec13faa5a616308add32e86,10,plausible,The waitress*fixed*the customer*a sandwich.,731,3
+ac55e6442ec13faa5a616308add32e86,10,plausible,The waitress*fixed*the customer*a sandwich.,1314,4
+ac55e6442ec13faa5a616308add32e86,17,implausible,The travel agent*reserved*a flight*the businessman.,1075,1
+ac55e6442ec13faa5a616308add32e86,17,implausible,The travel agent*reserved*a flight*the businessman.,1281,2
+ac55e6442ec13faa5a616308add32e86,17,implausible,The travel agent*reserved*a flight*the businessman.,1213,3
+ac55e6442ec13faa5a616308add32e86,17,implausible,The travel agent*reserved*a flight*the businessman.,1746,4
+ac55e6442ec13faa5a616308add32e86,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1038,1
+ac55e6442ec13faa5a616308add32e86,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1141,2
+ac55e6442ec13faa5a616308add32e86,18,plausible,The boyfriend*obtained*his girlfriend*some concert tickets.,1204,3
+ac55e6442ec13faa5a616308add32e86,16,plausible,The man*ordered*his girlfriend*some champagne.,1072,1
+ac55e6442ec13faa5a616308add32e86,16,plausible,The man*ordered*his girlfriend*some champagne.,871,2
+ac55e6442ec13faa5a616308add32e86,16,plausible,The man*ordered*his girlfriend*some champagne.,999,3
+ac55e6442ec13faa5a616308add32e86,16,plausible,The man*ordered*his girlfriend*some champagne.,1328,4
+ac55e6442ec13faa5a616308add32e86,9,implausible,The charity*built*a house*the hurricane victim.,994,1
+ac55e6442ec13faa5a616308add32e86,9,implausible,The charity*built*a house*the hurricane victim.,888,2
+ac55e6442ec13faa5a616308add32e86,9,implausible,The charity*built*a house*the hurricane victim.,1229,3
+ac55e6442ec13faa5a616308add32e86,13,implausible,The receptionist*saved*some cake*her co-worker.,1037,1
+ac55e6442ec13faa5a616308add32e86,13,implausible,The receptionist*saved*some cake*her co-worker.,1001,2
+ac55e6442ec13faa5a616308add32e86,13,implausible,The receptionist*saved*some cake*her co-worker.,878,3
+ac55e6442ec13faa5a616308add32e86,6,plausible,The secretary*ordered*the boss*some office supplies.,771,1
+ac55e6442ec13faa5a616308add32e86,6,plausible,The secretary*ordered*the boss*some office supplies.,1018,2
+ac55e6442ec13faa5a616308add32e86,6,plausible,The secretary*ordered*the boss*some office supplies.,965,3
+ac55e6442ec13faa5a616308add32e86,8,plausible,The father*bought*his son*a bicycle.,725,1
+ac55e6442ec13faa5a616308add32e86,8,plausible,The father*bought*his son*a bicycle.,779,2
+ac55e6442ec13faa5a616308add32e86,8,plausible,The father*bought*his son*a bicycle.,788,3
+ac55e6442ec13faa5a616308add32e86,8,plausible,The father*bought*his son*a bicycle.,1930,4
+ac55e6442ec13faa5a616308add32e86,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1062,1
+ac55e6442ec13faa5a616308add32e86,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1153,2
+ac55e6442ec13faa5a616308add32e86,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1541,3
+ac55e6442ec13faa5a616308add32e86,15,implausible,The lab-assistant*fetched*a test-tube*the scientist.,1949,4
+ac55e6442ec13faa5a616308add32e86,7,implausible,The wife*reserved*a table*her husband.,456,1
+ac55e6442ec13faa5a616308add32e86,7,implausible,The wife*reserved*a table*her husband.,727,2
+ac55e6442ec13faa5a616308add32e86,7,implausible,The wife*reserved*a table*her husband.,842,3
+ac55e6442ec13faa5a616308add32e86,7,implausible,The wife*reserved*a table*her husband.,795,4
+ac55e6442ec13faa5a616308add32e86,5,implausible,The apprentice*fetched*a hammer*the carpenter.,916,1
+ac55e6442ec13faa5a616308add32e86,5,implausible,The apprentice*fetched*a hammer*the carpenter.,761,2
+ac55e6442ec13faa5a616308add32e86,5,implausible,The apprentice*fetched*a hammer*the carpenter.,825,3
+ac55e6442ec13faa5a616308add32e86,1,implausible,The cook*baked*a cake*Lucy.,874,1
+ac55e6442ec13faa5a616308add32e86,1,implausible,The cook*baked*a cake*Lucy.,918,2
+ac55e6442ec13faa5a616308add32e86,1,implausible,The cook*baked*a cake*Lucy.,1003,3
+ac55e6442ec13faa5a616308add32e86,11,implausible,The grandmother*baked*some cookies*the grandson.,821,1
+ac55e6442ec13faa5a616308add32e86,11,implausible,The grandmother*baked*some cookies*the grandson.,857,2
+ac55e6442ec13faa5a616308add32e86,11,implausible,The grandmother*baked*some cookies*the grandson.,976,3
+ac55e6442ec13faa5a616308add32e86,2,plausible,The bartender*poured*the customer*a drink.,1072,1
+ac55e6442ec13faa5a616308add32e86,2,plausible,The bartender*poured*the customer*a drink.,713,2
+ac55e6442ec13faa5a616308add32e86,2,plausible,The bartender*poured*the customer*a drink.,840,3
+ac55e6442ec13faa5a616308add32e86,2,plausible,The bartender*poured*the customer*a drink.,848,4
+ac55e6442ec13faa5a616308add32e86,4,plausible,The grandmother*made*her granddaughter*a quilt.,814,2
+ac55e6442ec13faa5a616308add32e86,4,plausible,The grandmother*made*her granddaughter*a quilt.,1012,3
+ac55e6442ec13faa5a616308add32e86,3,implausible,The woman*saved*a seat*her husband.,634,1
+ac55e6442ec13faa5a616308add32e86,3,implausible,The woman*saved*a seat*her husband.,599,2
+ac55e6442ec13faa5a616308add32e86,3,implausible,The woman*saved*a seat*her husband.,801,3
+ac55e6442ec13faa5a616308add32e86,3,implausible,The woman*saved*a seat*her husband.,1196,4
