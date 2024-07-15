@@ -1,6 +1,6 @@
-# Big project
+# Digital Toolkit Project
 
-What is this? This project is authored by Anna Prysłopska.
+What is this? This project is authored by Felipe Nobrega.
 
 This is my Big Project. This can be my BA thesis, a novel, the next big app that Facebook will buy (I don't subscribe to their rebranding), or anything else.
 
@@ -34,4 +34,4 @@ Pull requests are welcome or not.
 
 ## Contact
 
-It's Anna Prysłopska, Wikipedia, and ChatGPT.
+Felipe Nobrega - felipeaugnobrega@gmail.com
